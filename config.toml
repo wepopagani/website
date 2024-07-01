@@ -212,7 +212,7 @@ link = "#"
 
 ################################ English Language ########################
 [Languages.en]
-languageName = "En"
+languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
 
@@ -223,7 +223,7 @@ copyright = "Copyright &copy; 2020 Designed and Developed by Marco Pagani"
 
 ################################ Deutsche Sprache ########################
 [Languages.de]
-languageName = "De"
+languageName = "Deutsch"
 languageCode = "de-de"
 contentDir = "content/german"
 
@@ -234,7 +234,7 @@ copyright = "Copyright &copy; 2020 Entworfen und entwickelt von Marco Pagani"
 
 ################################ Lingua Italiana ########################
 [Languages.it]
-languageName = "It"
+languageName = "Italiano"
 languageCode = "it-it"
 contentDir = "content/italian"
 
@@ -245,7 +245,7 @@ copyright = "Copyright &copy; 2020 Progettato e sviluppato da Marco Pagani"
 
 ################################ Langue Française ########################
 [Languages.fr]
-languageName = "Fr"
+languageName = "Francois"
 languageCode = "fr-fr"
 contentDir = "content/french"
 

@@ -1,34 +1,19 @@
-################################# Service #################################
+################################# Services #################################
 service:
-  enable : true
-  title : Our Services
-  service_item :
+  enable: true
+  title: Nos Services
+  service_item:
     # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+    - name: Conception et impression 3D personnalisées
+      icon: ti-panel # themify icon pack: https://themify.me/themify-icons
+      content: Vous avez une idée brillante mais pas de moyen de la réaliser ? Nos designers experts collaboreront avec vous pour transformer votre concept en un superbe modèle 3D. Nous travaillerons en étroite collaboration avec vous pour comprendre votre vision, affiner votre design et créer un plan numérique prêt pour l'impression. Une fois la conception finalisée, nous utiliserons nos imprimantes 3D de pointe pour produire un objet fonctionnel de haute qualité qui dépasse vos attentes.
+
     # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+    - name: Impression 3D à partir d'images
+      icon: ti-camera # themify icon pack: https://themify.me/themify-icons
+      content: Vous avez une photo précieuse, un croquis, ou même un objet physique que vous souhaitez immortaliser en 3D ? Nos techniciens qualifiés peuvent transformer vos images 2D en modèles 3D détaillés, prêts à être imprimés. Qu'il s'agisse d'un portrait de famille, d'un animal de compagnie bien-aimé ou d'une œuvre d'art, nous capturerons son essence et lui donnerons vie dans une nouvelle dimension.
+
     # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name: Services d'impression 3D
+      icon: ti-printer # themify icon pack: https://themify.me/themify-icons
+      content: Vous avez déjà un modèle 3D mais vous avez besoin de l'imprimer ? Ne cherchez pas plus loin ! Nous proposons des services d'impression 3D haut de gamme utilisant une variété de matériaux et de finitions pour répondre à vos besoins. Il vous suffit de nous fournir votre fichier modèle (STL, OBJ ou autres formats courants), et nous nous occupons du reste. Nos imprimantes de précision et notre contrôle qualité méticuleux garantissent que votre produit fini répond aux normes les plus élevées.

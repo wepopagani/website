@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3D Printing on Meghna</title>
-    <link>http://localhost:1313/meghna/examplesite/fr/categories/3d-printing/</link>
-    <description>Recent content in 3D Printing on Meghna</description>
+    <title>3D Printing on CreaLab</title>
+    <link>http://localhost:1313/fr/categories/3d-printing/</link>
+    <description>Recent content in 3D Printing on CreaLab</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/meghna/examplesite/fr/categories/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/categories/3d-printing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slicing: The Key to Successful 3D Printing</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/blog/slicing/</link>
+      <link>http://localhost:1313/fr/blog/slicing/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/blog/slicing/</guid>
+      <guid>http://localhost:1313/fr/blog/slicing/</guid>
       <description>Slicing: The Unsung Hero of 3D Printing Slicing is a crucial step in the 3D printing process that often goes unnoticed but plays a significant role in the success of your prints.</description>
     </item>
   </channel>

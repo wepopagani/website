@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Meghna</title>
-    <link>http://localhost:1313/meghna/examplesite/fr/tags/</link>
-    <description>Recent content in Tags on Meghna</description>
+    <title>Tags on CreaLab</title>
+    <link>http://localhost:1313/fr/tags/</link>
+    <description>Recent content in Tags on CreaLab</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/meghna/examplesite/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D Models</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/3d-models/</link>
+      <link>http://localhost:1313/fr/tags/3d-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/3d-models/</guid>
+      <guid>http://localhost:1313/fr/tags/3d-models/</guid>
       <description></description>
     </item>
     <item>
       <title>3D Printing</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/3d-printing/</link>
+      <link>http://localhost:1313/fr/tags/3d-printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/3d-printing/</guid>
+      <guid>http://localhost:1313/fr/tags/3d-printing/</guid>
       <description></description>
     </item>
     <item>
       <title>4D Printing</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/4d-printing/</link>
+      <link>http://localhost:1313/fr/tags/4d-printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/4d-printing/</guid>
+      <guid>http://localhost:1313/fr/tags/4d-printing/</guid>
       <description></description>
     </item>
     <item>
       <title>Bioprinting</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/bioprinting/</link>
+      <link>http://localhost:1313/fr/tags/bioprinting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/bioprinting/</guid>
+      <guid>http://localhost:1313/fr/tags/bioprinting/</guid>
       <description></description>
     </item>
     <item>
       <title>Future</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/future/</link>
+      <link>http://localhost:1313/fr/tags/future/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/future/</guid>
+      <guid>http://localhost:1313/fr/tags/future/</guid>
       <description></description>
     </item>
     <item>
       <title>Innovation</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/innovation/</link>
+      <link>http://localhost:1313/fr/tags/innovation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/innovation/</guid>
+      <guid>http://localhost:1313/fr/tags/innovation/</guid>
       <description></description>
     </item>
     <item>
       <title>Large-Scale 3D Printing</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/large-scale-3d-printing/</link>
+      <link>http://localhost:1313/fr/tags/large-scale-3d-printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/large-scale-3d-printing/</guid>
+      <guid>http://localhost:1313/fr/tags/large-scale-3d-printing/</guid>
       <description></description>
     </item>
     <item>
       <title>Metal 3D Printing</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/metal-3d-printing/</link>
+      <link>http://localhost:1313/fr/tags/metal-3d-printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/metal-3d-printing/</guid>
+      <guid>http://localhost:1313/fr/tags/metal-3d-printing/</guid>
       <description></description>
     </item>
     <item>
       <title>Printing</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/printing/</link>
+      <link>http://localhost:1313/fr/tags/printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/printing/</guid>
+      <guid>http://localhost:1313/fr/tags/printing/</guid>
       <description></description>
     </item>
     <item>
       <title>Slicing</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/slicing/</link>
+      <link>http://localhost:1313/fr/tags/slicing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/slicing/</guid>
+      <guid>http://localhost:1313/fr/tags/slicing/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/software/</link>
+      <link>http://localhost:1313/fr/tags/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/software/</guid>
+      <guid>http://localhost:1313/fr/tags/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/tags/technology/</link>
+      <link>http://localhost:1313/fr/tags/technology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/tags/technology/</guid>
+      <guid>http://localhost:1313/fr/tags/technology/</guid>
       <description></description>
     </item>
   </channel>

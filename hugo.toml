@@ -1,9 +1,9 @@
 ################################# Default configuration ###################
-baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
-title = "Meghna"
+baseURL = "https://crealab.lu"
+title = "CreaLab"
 theme = "meghna-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Europe/Rome"
 # post pagination
 paginate = 6 # see https://gohugo.io/extras/pagination/
 # post excerpt
@@ -100,21 +100,6 @@ url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 3
-
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
-
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-
-[[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
 weight = 6
@@ -124,55 +109,16 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-
-[[Languages.en.menu.main]]
-name = "Dropdown"
-weight = 7
-hasChildren = true
-
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 1"
-url = "#"
-weight = 1
-
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 2"
-url = "#"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
-
-
-################### French Navigation ########################
+################### Navigation Française ########################
 [[Languages.fr.menu.main]]
-name = "sur"
+name = "à propos"
 url = "#about"
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "un service"
+name = "services"
 url = "#services"
 weight = 2
-
-[[Languages.fr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
-weight = 3
-
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
 
 [[Languages.fr.menu.main]]
 name = "blog"
@@ -184,17 +130,54 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+################### Deutsche Navigation ########################
+[[Languages.de.menu.main]]
+name = "Über uns"
+url = "#about"
+weight = 1
+
+[[Languages.de.menu.main]]
+name = "Dienstleistungen"
+url = "#services"
+weight = 2
+
+[[Languages.de.menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 6
+
+[[Languages.de.menu.main]]
+name = "Kontakt"
+url = "#contact"
+weight = 7
+
+################### Navigazione Italiana ########################
+[[Languages.it.menu.main]]
+name = "chi siamo"
+url = "#about"
+weight = 1
+
+[[Languages.it.menu.main]]
+name = "servizi"
+url = "#services"
+weight = 2
+
+[[Languages.it.menu.main]]
+name = "blog"
+url = "#blog"
+weight = 6
+
+[[Languages.it.menu.main]]
+name = "contatti"
+url = "#contact"
+weight = 7
 
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "a website offering 3d printing and design services "
+author = "Marco Pagani"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -224,25 +207,8 @@ icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "#"
-
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
 
 ################################ English Language ########################
 [Languages.en]
@@ -253,15 +219,37 @@ contentDir = "content/english"
 [Languages.en.params]
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed and Developed by Marco Pagani"
 
-################################ France Language ########################
+################################ Deutsche Sprache ########################
+[Languages.de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/german"
+
+[Languages.de.params]
+weight = 1
+home = "Startseite" 
+copyright = "Copyright &copy; 2020 Entworfen und entwickelt von Marco Pagani"
+
+################################ Lingua Italiana ########################
+[Languages.it]
+languageName = "It"
+languageCode = "it-it"
+contentDir = "content/italian"
+
+[Languages.it.params]
+weight = 1
+home = "Home"
+copyright = "Copyright &copy; 2020 Progettato e sviluppato da Marco Pagani"
+
+################################ Langue Française ########################
 [Languages.fr]
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 2
 
 [Languages.fr.params]
+weight = 1
 home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Conçu et développé par Marco Pagani"

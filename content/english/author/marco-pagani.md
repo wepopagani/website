@@ -3,14 +3,14 @@ title: About Me
 date: 2024-06-30T19:55:00+02:00
 ---
 
-Ciao, sono Marco! Ho 21 anni e sono uno studente di economia con una grande passione per il mondo dell'informatica. Fin da piccolo, sono stato affascinato dalla tecnologia e dal suo potenziale di trasformare il mondo.
+Hi, I'm Marco! I'm 21 years old and an economics student with a passion for the world of computer science. Ever since I was a kid, I've been fascinated by technology and its potential to transform the world.
 
-Credo fermamente che l'innovazione sia la chiave per un futuro migliore e sono entusiasta di contribuire attivamente a questo processo. La mia curiosità mi spinge a esplorare costantemente nuove tecnologie e a cercare soluzioni creative ai problemi.
+I firmly believe that innovation is the key to a better future, and I'm eager to actively contribute to this process. My curiosity drives me to constantly explore new technologies and seek creative solutions to problems.
 
-Oltre all'informatica, mi interesso di design, arte e cultura. Mi piace viaggiare, scoprire nuovi luoghi e conoscere persone provenienti da tutto il mondo.
+Besides computer science, I'm interested in design, art, and culture. I enjoy traveling, discovering new places, and meeting people from all over the world.
 
-Sono una persona determinata, curiosa e sempre pronta ad imparare. Amo le sfide e mi impegno al massimo per raggiungere i miei obiettivi.
+I'm a determined, curious person who is always ready to learn. I love challenges and I strive to achieve my goals.
 
-Sono convinto che la stampa 3D sia una tecnologia rivoluzionaria che può cambiare il modo in cui progettiamo, creiamo e produciamo oggetti. Sono entusiasta di far parte di CreaLab e di contribuire a rendere questa tecnologia accessibile a tutti.
+I'm convinced that 3D printing is a revolutionary technology that can change the way we design, create, and produce objects. I'm excited to be part of CreaLab and to contribute to making this technology accessible to everyone.
 
-Se hai un'idea che vuoi trasformare in realtà, non esitare a contattarmi!
+If you have an idea you want to turn into reality, don't hesitate to contact me!

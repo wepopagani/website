@@ -23,17 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>4D Printing</title>
-      <link>http://localhost:1313/it/tags/4d-printing/</link>
+      <title>Biostampa</title>
+      <link>http://localhost:1313/it/tags/biostampa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/tags/4d-printing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bioprinting</title>
-      <link>http://localhost:1313/it/tags/bioprinting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/tags/bioprinting/</guid>
+      <guid>http://localhost:1313/it/tags/biostampa/</guid>
       <description></description>
     </item>
     <item>
@@ -44,6 +37,13 @@
       <description></description>
     </item>
     <item>
+      <title>Futuro</title>
+      <link>http://localhost:1313/it/tags/futuro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/tags/futuro/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Innovation</title>
       <link>http://localhost:1313/it/tags/innovation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,17 +51,10 @@
       <description></description>
     </item>
     <item>
-      <title>Large-Scale 3D Printing</title>
-      <link>http://localhost:1313/it/tags/large-scale-3d-printing/</link>
+      <title>Innovazione</title>
+      <link>http://localhost:1313/it/tags/innovazione/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/tags/large-scale-3d-printing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metal 3D Printing</title>
-      <link>http://localhost:1313/it/tags/metal-3d-printing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/tags/metal-3d-printing/</guid>
+      <guid>http://localhost:1313/it/tags/innovazione/</guid>
       <description></description>
     </item>
     <item>
@@ -86,10 +79,45 @@
       <description></description>
     </item>
     <item>
+      <title>Stampa 3D</title>
+      <link>http://localhost:1313/it/tags/stampa-3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/tags/stampa-3d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stampa 3D Metallo</title>
+      <link>http://localhost:1313/it/tags/stampa-3d-metallo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/tags/stampa-3d-metallo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stampa 3D Su Larga Scala</title>
+      <link>http://localhost:1313/it/tags/stampa-3d-su-larga-scala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/tags/stampa-3d-su-larga-scala/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stampa 4D</title>
+      <link>http://localhost:1313/it/tags/stampa-4d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/tags/stampa-4d/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Technology</title>
       <link>http://localhost:1313/it/tags/technology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/it/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tecnologia</title>
+      <link>http://localhost:1313/it/tags/tecnologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/tags/tecnologia/</guid>
       <description></description>
     </item>
   </channel>

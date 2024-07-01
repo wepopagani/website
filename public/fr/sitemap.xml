@@ -140,51 +140,8 @@
                 href="http://localhost:1313/fr/categories/3d-printing/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/4d-printing/</loc>
+    <loc>http://localhost:1313/fr/tags/bio-impression/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/4d-printing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de/tags/4d-printing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-it"
-                href="http://localhost:1313/it/tags/4d-printing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/tags/4d-printing/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/bioprinting/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/bioprinting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de/tags/bioprinting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-it"
-                href="http://localhost:1313/it/tags/bioprinting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/tags/bioprinting/"
-                />
   </url><url>
     <loc>http://localhost:1313/fr/blog/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
@@ -232,6 +189,9 @@
                 href="http://localhost:1313/fr/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/tags/futur/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/tags/future/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
@@ -254,6 +214,18 @@
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/tags/future/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/impression-3d/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/impression-3d-%C3%A0-grande-%C3%A9chelle/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/impression-3d-m%C3%A9tal/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/impression-4d/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/tags/innovation/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
@@ -278,50 +250,27 @@
                 href="http://localhost:1313/fr/tags/innovation/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/large-scale-3d-printing/</loc>
+    <loc>http://localhost:1313/fr/blog/future/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/large-scale-3d-printing/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de-de"
-                href="http://localhost:1313/de/tags/large-scale-3d-printing/"
+                href="http://localhost:1313/de/blog/future/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="http://localhost:1313/it/tags/large-scale-3d-printing/"
+                href="http://localhost:1313/it/blog/future/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/tags/large-scale-3d-printing/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/metal-3d-printing/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/tags/metal-3d-printing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de/tags/metal-3d-printing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-it"
-                href="http://localhost:1313/it/tags/metal-3d-printing/"
+                href="http://localhost:1313/blog/future/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/fr/tags/metal-3d-printing/"
+                href="http://localhost:1313/fr/blog/future/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/tags/printing/</loc>
@@ -439,6 +388,32 @@
                 href="http://localhost:1313/fr/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/tags/technologie/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://localhost:1313/de/tags/technologie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/tags/technologie/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/technologie/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://localhost:1313/de/categories/technologie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/categories/technologie/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fr/tags/technology/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
@@ -483,29 +458,6 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/fr/categories/technology/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/blog/future/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blog/future/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-de"
-                href="http://localhost:1313/de/blog/future/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-it"
-                href="http://localhost:1313/it/blog/future/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/blog/future/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/blog/material/</loc>

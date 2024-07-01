@@ -1,16 +1,16 @@
 ---
-title: About Me
+title: Über Mich
 date: 2024-06-30T19:55:00+02:00
 ---
 
-Ciao, sono Marco! Ho 21 anni e sono uno studente di economia con una grande passione per il mondo dell'informatica. Fin da piccolo, sono stato affascinato dalla tecnologia e dal suo potenziale di trasformare il mondo.
+Hallo, ich bin Marco! Ich bin 21 Jahre alt und studiere Wirtschaft, habe aber eine große Leidenschaft für die Welt der Informatik. Schon seit meiner Kindheit bin ich fasziniert von Technologie und ihrem Potenzial, die Welt zu verändern.
 
-Credo fermamente che l'innovazione sia la chiave per un futuro migliore e sono entusiasta di contribuire attivamente a questo processo. La mia curiosità mi spinge a esplorare costantemente nuove tecnologie e a cercare soluzioni creative ai problemi.
+Ich bin fest davon überzeugt, dass Innovation der Schlüssel zu einer besseren Zukunft ist, und ich möchte aktiv zu diesem Prozess beitragen. Meine Neugier treibt mich an, ständig neue Technologien zu erforschen und kreative Lösungen für Probleme zu finden.
 
-Oltre all'informatica, mi interesso di design, arte e cultura. Mi piace viaggiare, scoprire nuovi luoghi e conoscere persone provenienti da tutto il mondo.
+Neben der Informatik interessiere ich mich für Design, Kunst und Kultur. Ich reise gerne, entdecke neue Orte und lerne Menschen aus der ganzen Welt kennen.
 
-Sono una persona determinata, curiosa e sempre pronta ad imparare. Amo le sfide e mi impegno al massimo per raggiungere i miei obiettivi.
+Ich bin eine zielstrebige, neugierige Person, die immer bereit ist zu lernen. Ich liebe Herausforderungen und setze mich voll ein, um meine Ziele zu erreichen.
 
-Sono convinto che la stampa 3D sia una tecnologia rivoluzionaria che può cambiare il modo in cui progettiamo, creiamo e produciamo oggetti. Sono entusiasta di far parte di CreaLab e di contribuire a rendere questa tecnologia accessibile a tutti.
+Ich bin überzeugt, dass der 3D-Druck eine revolutionäre Technologie ist, die die Art und Weise verändern kann, wie wir Objekte entwerfen, herstellen und produzieren. Ich freue mich, Teil von CreaLab zu sein und dazu beizutragen, diese Technologie für jeden zugänglich zu machen.
 
-Se hai un'idea che vuoi trasformare in realtà, non esitare a contattarmi!
+Wenn Sie eine Idee haben, die Sie verwirklichen möchten, zögern Sie nicht, mich zu kontaktieren!

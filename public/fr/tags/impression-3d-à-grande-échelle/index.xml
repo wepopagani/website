@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Impression 3D À Grande Échelle on CreaLab</title>
+    <link>http://localhost:1313/fr/tags/impression-3d-%C3%A0-grande-%C3%A9chelle/</link>
+    <description>Recent content in Impression 3D À Grande Échelle on CreaLab</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/impression-3d-%C3%A0-grande-%C3%A9chelle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;Avenir de l&#39;Impression 3D : Un Aperçu des Innovations de Demain</title>
+      <link>http://localhost:1313/fr/blog/future/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <guid>http://localhost:1313/fr/blog/future/</guid>
+      <description>Le paysage de l&amp;rsquo;impression 3D est en constante évolution, avec de nouvelles technologies et applications qui émergent à un rythme rapide.</description>
+    </item>
+  </channel>
+</rss>

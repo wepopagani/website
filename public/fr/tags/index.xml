@@ -23,17 +23,17 @@
       <description></description>
     </item>
     <item>
-      <title>4D Printing</title>
-      <link>http://localhost:1313/fr/tags/4d-printing/</link>
+      <title>Bio-Impression</title>
+      <link>http://localhost:1313/fr/tags/bio-impression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/4d-printing/</guid>
+      <guid>http://localhost:1313/fr/tags/bio-impression/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bioprinting</title>
-      <link>http://localhost:1313/fr/tags/bioprinting/</link>
+      <title>Futur</title>
+      <link>http://localhost:1313/fr/tags/futur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/bioprinting/</guid>
+      <guid>http://localhost:1313/fr/tags/futur/</guid>
       <description></description>
     </item>
     <item>
@@ -44,24 +44,38 @@
       <description></description>
     </item>
     <item>
+      <title>Impression 3D</title>
+      <link>http://localhost:1313/fr/tags/impression-3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/impression-3d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impression 3D À Grande Échelle</title>
+      <link>http://localhost:1313/fr/tags/impression-3d-%C3%A0-grande-%C3%A9chelle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/impression-3d-%C3%A0-grande-%C3%A9chelle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impression 3D Métal</title>
+      <link>http://localhost:1313/fr/tags/impression-3d-m%C3%A9tal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/impression-3d-m%C3%A9tal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impression 4D</title>
+      <link>http://localhost:1313/fr/tags/impression-4d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/impression-4d/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Innovation</title>
       <link>http://localhost:1313/fr/tags/innovation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/tags/innovation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Large-Scale 3D Printing</title>
-      <link>http://localhost:1313/fr/tags/large-scale-3d-printing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/large-scale-3d-printing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metal 3D Printing</title>
-      <link>http://localhost:1313/fr/tags/metal-3d-printing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/metal-3d-printing/</guid>
       <description></description>
     </item>
     <item>
@@ -83,6 +97,13 @@
       <link>http://localhost:1313/fr/tags/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technologie</title>
+      <link>http://localhost:1313/fr/tags/technologie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/technologie/</guid>
       <description></description>
     </item>
     <item>

@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CreaLab</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://crealab.lu/tags/</link>
     <description>Recent content in Tags on CreaLab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://crealab.lu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D Models</title>
-      <link>http://localhost:1313/tags/3d-models/</link>
+      <link>https://crealab.lu/tags/3d-models/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/3d-models/</guid>
+      <guid>https://crealab.lu/tags/3d-models/</guid>
       <description></description>
     </item>
     <item>
       <title>3D Printing</title>
-      <link>http://localhost:1313/tags/3d-printing/</link>
+      <link>https://crealab.lu/tags/3d-printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/3d-printing/</guid>
+      <guid>https://crealab.lu/tags/3d-printing/</guid>
       <description></description>
     </item>
     <item>
       <title>4D Printing</title>
-      <link>http://localhost:1313/tags/4d-printing/</link>
+      <link>https://crealab.lu/tags/4d-printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/4d-printing/</guid>
+      <guid>https://crealab.lu/tags/4d-printing/</guid>
       <description></description>
     </item>
     <item>
       <title>Applications</title>
-      <link>http://localhost:1313/tags/applications/</link>
+      <link>https://crealab.lu/tags/applications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/applications/</guid>
+      <guid>https://crealab.lu/tags/applications/</guid>
       <description></description>
     </item>
     <item>
       <title>Bioprinting</title>
-      <link>http://localhost:1313/tags/bioprinting/</link>
+      <link>https://crealab.lu/tags/bioprinting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bioprinting/</guid>
+      <guid>https://crealab.lu/tags/bioprinting/</guid>
       <description></description>
     </item>
     <item>
       <title>Filament</title>
-      <link>http://localhost:1313/tags/filament/</link>
+      <link>https://crealab.lu/tags/filament/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/filament/</guid>
+      <guid>https://crealab.lu/tags/filament/</guid>
       <description></description>
     </item>
     <item>
       <title>Future</title>
-      <link>http://localhost:1313/tags/future/</link>
+      <link>https://crealab.lu/tags/future/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/future/</guid>
+      <guid>https://crealab.lu/tags/future/</guid>
       <description></description>
     </item>
     <item>
       <title>Innovation</title>
-      <link>http://localhost:1313/tags/innovation/</link>
+      <link>https://crealab.lu/tags/innovation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/innovation/</guid>
+      <guid>https://crealab.lu/tags/innovation/</guid>
       <description></description>
     </item>
     <item>
       <title>Large-Scale 3D Printing</title>
-      <link>http://localhost:1313/tags/large-scale-3d-printing/</link>
+      <link>https://crealab.lu/tags/large-scale-3d-printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/large-scale-3d-printing/</guid>
+      <guid>https://crealab.lu/tags/large-scale-3d-printing/</guid>
       <description></description>
     </item>
     <item>
       <title>Materials</title>
-      <link>http://localhost:1313/tags/materials/</link>
+      <link>https://crealab.lu/tags/materials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/materials/</guid>
+      <guid>https://crealab.lu/tags/materials/</guid>
       <description></description>
     </item>
     <item>
       <title>Metal</title>
-      <link>http://localhost:1313/tags/metal/</link>
+      <link>https://crealab.lu/tags/metal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/metal/</guid>
+      <guid>https://crealab.lu/tags/metal/</guid>
       <description></description>
     </item>
     <item>
       <title>Metal 3D Printing</title>
-      <link>http://localhost:1313/tags/metal-3d-printing/</link>
+      <link>https://crealab.lu/tags/metal-3d-printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/metal-3d-printing/</guid>
+      <guid>https://crealab.lu/tags/metal-3d-printing/</guid>
       <description></description>
     </item>
     <item>
       <title>Printing</title>
-      <link>http://localhost:1313/tags/printing/</link>
+      <link>https://crealab.lu/tags/printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/printing/</guid>
+      <guid>https://crealab.lu/tags/printing/</guid>
       <description></description>
     </item>
     <item>
       <title>Resin</title>
-      <link>http://localhost:1313/tags/resin/</link>
+      <link>https://crealab.lu/tags/resin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/resin/</guid>
+      <guid>https://crealab.lu/tags/resin/</guid>
       <description></description>
     </item>
     <item>
       <title>Slicing</title>
-      <link>http://localhost:1313/tags/slicing/</link>
+      <link>https://crealab.lu/tags/slicing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/slicing/</guid>
+      <guid>https://crealab.lu/tags/slicing/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>http://localhost:1313/tags/software/</link>
+      <link>https://crealab.lu/tags/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/software/</guid>
+      <guid>https://crealab.lu/tags/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>http://localhost:1313/tags/technology/</link>
+      <link>https://crealab.lu/tags/technology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/technology/</guid>
+      <guid>https://crealab.lu/tags/technology/</guid>
       <description></description>
     </item>
   </channel>

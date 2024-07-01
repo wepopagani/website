@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metallo on CreaLab</title>
-    <link>http://localhost:1313/it/tags/metallo/</link>
+    <link>https://crealab.lu/it/tags/metallo/</link>
     <description>Recent content in Metallo on CreaLab</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/it/tags/metallo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://crealab.lu/it/tags/metallo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Materiali per la Stampa 3D: Una Guida Completa</title>
-      <link>http://localhost:1313/it/blog/material/</link>
+      <link>https://crealab.lu/it/blog/material/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/it/blog/material/</guid>
+      <guid>https://crealab.lu/it/blog/material/</guid>
       <description>La stampa 3D sta rivoluzionando le industrie e trasformando il modo in cui creiamo oggetti. Un aspetto cruciale di questa tecnologia è l&amp;rsquo;ampia gamma di materiali disponibili, ognuno con proprietà e applicazioni uniche.</description>
     </item>
   </channel>

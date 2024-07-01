@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Résine on CreaLab</title>
-    <link>http://localhost:1313/fr/tags/r%C3%A9sine/</link>
+    <link>https://crealab.lu/fr/tags/r%C3%A9sine/</link>
     <description>Recent content in Résine on CreaLab</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/tags/r%C3%A9sine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://crealab.lu/fr/tags/r%C3%A9sine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Matériaux pour l&#39;Impression 3D : Un Guide Complet</title>
-      <link>http://localhost:1313/fr/blog/material/</link>
+      <link>https://crealab.lu/fr/blog/material/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/fr/blog/material/</guid>
+      <guid>https://crealab.lu/fr/blog/material/</guid>
       <description>L&amp;rsquo;impression 3D révolutionne les industries et transforme notre façon de créer des objets. Un aspect crucial de cette technologie est la grande variété de matériaux disponibles, chacun avec des propriétés et des applications uniques.</description>
     </item>
   </channel>

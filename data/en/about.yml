@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : Our team of talented designers and engineers thrives on turning your ideas into reality. We approach every project with a fresh perspective and innovative solutions, ensuring your vision is brought to life in the most creative way possible.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : With years of experience in 3D printing and design, we deliver exceptional results with a commitment to quality and precision. We take pride in our meticulous attention to detail and our ability to meet even the most demanding project requirements.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : We don't just print objects; we solve problems. Our team of experts combines technical expertise with creative ingenuity to develop innovative solutions that push the boundaries of what's possible with 3D printing.

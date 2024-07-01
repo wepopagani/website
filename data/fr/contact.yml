@@ -1,31 +1,28 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title : Contactez-nous
+  subtitle : Coordonnées
+  content : Vous avez une question ou un projet en tête ? Nous aimerions avoir de vos nouvelles.
 
-  # Contact details
+  # Coordonnées
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Via Pietro Peri 9, 6900 Lugano, Suisse (CH)"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "Téléphone : +41 76 594 72 52"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email : info@crealab.lu"
 
 
-  # Contact form
+  # Formulaire de contact
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "votre nom"
-    email : "Votre email"
-    subject : "Matière"
+    form_action : "#" # contact form works with https://formspree.io
+    name : "Votre Nom"
+    email : "Votre Email"
+    subject : "Sujet"
     message : "Message"
-    submit : "Soumettre"
+    submit : "Envoyer"

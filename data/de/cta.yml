@@ -1,0 +1,11 @@
+############################# Handlungsaufforderung ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg_printer.jpg"
+  bg_image_webp : "images/backgrounds/bg_printer.webp"
+  title : "Großartiges Design & Unglaubliche Funktionen"
+  content : "Haben Sie eine Frage oder ein Projekt? Wir sind für Sie da! Kontaktieren Sie uns noch heute für eine kostenlose Beratung."
+  button:
+    enable : true
+    label : "Starten Sie ein Projekt mit uns"
+    link : "#contact"

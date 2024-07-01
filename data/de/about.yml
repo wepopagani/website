@@ -1,0 +1,16 @@
+############################# Über uns ###################################
+about:
+  enable : true
+  title : Über uns
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Wir sind kreativ
+    content : Unser Team aus talentierten Designern und Ingenieuren setzt Ihre Ideen mit Leidenschaft in die Realität um. Wir gehen jedes Projekt mit einer frischen Perspektive und innovativen Lösungen an, um sicherzustellen, dass Ihre Vision auf die kreativste Weise zum Leben erweckt wird.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Wir sind professionell
+    content : Mit jahrelanger Erfahrung im 3D-Druck und Design liefern wir außergewöhnliche Ergebnisse mit einem hohen Anspruch an Qualität und Präzision. Wir sind stolz auf unsere Liebe zum Detail und unsere Fähigkeit, selbst die anspruchsvollsten Projektanforderungen zu erfüllen.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Wir sind Genies
+    content : Wir drucken nicht nur Objekte, wir lösen Probleme. Unser Expertenteam kombiniert technisches Know-how mit kreativem Einfallsreichtum, um innovative Lösungen zu entwickeln, die die Grenzen des Möglichen im 3D-Druck erweitern.

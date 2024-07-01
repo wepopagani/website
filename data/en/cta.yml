@@ -1,10 +1,10 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  bg_image : "images/backgrounds/bg_printer.jpg"
+  bg_image_webp : "images/backgrounds/bg_printer.webp"
   title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  content : "Have a question or a project in mind? We're here to help! Contact us today for a free consultation"
   button:
     enable : true
     label : "Start a project with us"

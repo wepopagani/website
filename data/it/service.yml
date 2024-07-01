@@ -1,0 +1,19 @@
+################################# Servizi #################################
+service:
+  enable: true
+  title: I nostri servizi
+  service_item:
+    # service item loop
+    - name: Progettazione e Stampa 3D Personalizzate
+      icon: ti-panel # themify icon pack: https://themify.me/themify-icons
+      content: Hai un'idea brillante ma non sai come realizzarla? I nostri esperti designer collaboreranno con te per trasformare il tuo concetto in uno straordinario modello 3D. Lavoreremo a stretto contatto con te per capire la tua visione, perfezionare il tuo design e creare un progetto digitale pronto per la stampa. Una volta finalizzato il progetto, useremo le nostre stampanti 3D all'avanguardia per produrre un oggetto funzionale di alta qualità che superi le tue aspettative.
+
+    # service item loop
+    - name: Stampa 3D da Immagini
+      icon: ti-camera # themify icon pack: https://themify.me/themify-icons
+      content: Hai una fotografia preziosa, uno schizzo o persino un oggetto fisico che vorresti immortalare in 3D? I nostri tecnici esperti possono trasformare le tue immagini 2D in modelli 3D dettagliati, pronti per la stampa. Che si tratti di un ritratto di famiglia, di un amato animale domestico o di un'opera d'arte, cattureremo la sua essenza e la porteremo in vita in una nuova dimensione.
+
+    # service item loop
+    - name: Servizi di Stampa 3D
+      icon: ti-printer # themify icon pack: https://themify.me/themify-icons
+      content: Hai già un modello 3D ma devi stamparlo? Non cercare oltre! Offriamo servizi di stampa 3D di alta qualità utilizzando una varietà di materiali e finiture per soddisfare le tue esigenze. Forniscici semplicemente il tuo file modello (STL, OBJ o altri formati comuni) e noi ci occuperemo del resto. Le nostre stampanti di precisione e il meticoloso controllo di qualità assicurano che il tuo prodotto finito soddisfi i più alti standard.

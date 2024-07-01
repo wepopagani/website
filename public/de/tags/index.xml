@@ -9,24 +9,17 @@
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3D Models</title>
-      <link>http://localhost:1313/de/tags/3d-models/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/3d-models/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>3D Printing</title>
-      <link>http://localhost:1313/de/tags/3d-printing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/3d-printing/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>3D-Druck</title>
       <link>http://localhost:1313/de/tags/3d-druck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/tags/3d-druck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3D-Modelle</title>
+      <link>http://localhost:1313/de/tags/3d-modelle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/tags/3d-modelle/</guid>
       <description></description>
     </item>
     <item>
@@ -37,6 +30,13 @@
       <description></description>
     </item>
     <item>
+      <title>Anwendungen</title>
+      <link>http://localhost:1313/de/tags/anwendungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/tags/anwendungen/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Bioprinting</title>
       <link>http://localhost:1313/de/tags/bioprinting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,10 +44,17 @@
       <description></description>
     </item>
     <item>
-      <title>Future</title>
-      <link>http://localhost:1313/de/tags/future/</link>
+      <title>Drucken</title>
+      <link>http://localhost:1313/de/tags/drucken/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/future/</guid>
+      <guid>http://localhost:1313/de/tags/drucken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filament</title>
+      <link>http://localhost:1313/de/tags/filament/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/tags/filament/</guid>
       <description></description>
     </item>
     <item>
@@ -58,6 +65,13 @@
       <description></description>
     </item>
     <item>
+      <title>Harz</title>
+      <link>http://localhost:1313/de/tags/harz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/tags/harz/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Innovation</title>
       <link>http://localhost:1313/de/tags/innovation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -65,17 +79,24 @@
       <description></description>
     </item>
     <item>
+      <title>Materialien</title>
+      <link>http://localhost:1313/de/tags/materialien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/tags/materialien/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metall</title>
+      <link>http://localhost:1313/de/tags/metall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/tags/metall/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Metall-3D-Druck</title>
       <link>http://localhost:1313/de/tags/metall-3d-druck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/tags/metall-3d-druck/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Printing</title>
-      <link>http://localhost:1313/de/tags/printing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/printing/</guid>
       <description></description>
     </item>
     <item>
@@ -97,13 +118,6 @@
       <link>http://localhost:1313/de/tags/technologie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/tags/technologie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/de/tags/technology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/tags/technology/</guid>
       <description></description>
     </item>
     <item>

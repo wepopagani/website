@@ -16,18 +16,18 @@
       <description>Die 3D-Drucklandschaft befindet sich in einem ständigen Wandel, mit neuen Technologien und Anwendungen, die in rasantem Tempo entstehen.</description>
     </item>
     <item>
-      <title>Slicing: The Key to Successful 3D Printing</title>
-      <link>http://localhost:1313/de/blog/slicing/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/de/blog/slicing/</guid>
-      <description>Slicing: The Unsung Hero of 3D Printing Slicing is a crucial step in the 3D printing process that often goes unnoticed but plays a significant role in the success of your prints.</description>
-    </item>
-    <item>
-      <title>The Future of 3D Printing: A Glimpse into Tomorrow&#39;s Innovations</title>
+      <title>Materialien für den 3D-Druck: Ein umfassender Leitfaden</title>
       <link>http://localhost:1313/de/blog/material/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       <guid>http://localhost:1313/de/blog/material/</guid>
-      <description>The world of 3D printing is constantly evolving, with new technologies and applications emerging at a rapid pace.</description>
+      <description>Der 3D-Druck revolutioniert Branchen und verändert die Art und Weise, wie wir Objekte herstellen. Ein entscheidender Aspekt dieser Technologie ist die breite Palette an verfügbaren Materialien, jedes mit einzigartigen Eigenschaften und Anwendungen.</description>
+    </item>
+    <item>
+      <title>Slicing: Der Schlüssel zum erfolgreichen 3D-Druck</title>
+      <link>http://localhost:1313/de/blog/slicing/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <guid>http://localhost:1313/de/blog/slicing/</guid>
+      <description>Slicing: Der unsichtbare Held des 3D-Drucks Slicing ist ein entscheidender Schritt im 3D-Druckprozess, der oft unbemerkt bleibt, aber eine wichtige Rolle für den Erfolg Ihrer Drucke spielt.</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,28 @@
+############################## Kontakt #############################
+contact:
+  enable : true
+  title : Kontaktieren Sie uns
+  subtitle : Kontaktdaten
+  content : Haben Sie eine Frage oder ein Projekt? Wir würden uns freuen, von Ihnen zu hören.
+
+  # Kontaktdaten
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Via Pietro Peri 9, 6900 Lugano, Schweiz (CH)"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Telefon: +41 76 594 72 52"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "E-Mail: info@crealab.lu"
+
+
+  # Kontaktformular
+  contact_form:
+    enable : true
+    form_action : "#" # contact form works with https://formspree.io
+    name : "Ihr Name"
+    email : "Ihre E-Mail"
+    subject : "Betreff"
+    message : "Nachricht"
+    submit : "Absenden"

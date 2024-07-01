@@ -1,0 +1,19 @@
+################################# Leistungen #################################
+service:
+  enable: true
+  title: Unsere Leistungen
+  service_item:
+    # service item loop
+    - name: Maßgeschneiderte 3D-Konstruktion und Druck
+      icon: ti-panel # themify icon pack: https://themify.me/themify-icons
+      content: Haben Sie eine brillante Idee, aber keine Möglichkeit, sie zum Leben zu erwecken? Unsere erfahrenen Designer arbeiten mit Ihnen zusammen, um Ihr Konzept in ein beeindruckendes 3D-Modell zu verwandeln. Wir arbeiten eng mit Ihnen zusammen, um Ihre Vision zu verstehen, Ihr Design zu verfeinern und einen digitalen Entwurf für den Druck zu erstellen. Sobald das Design fertiggestellt ist, nutzen wir unsere hochmodernen 3D-Drucker, um ein hochwertiges, funktionelles Objekt herzustellen, das Ihre Erwartungen übertrifft.
+
+    # service item loop
+    - name: 3D-Druck aus Bildern
+      icon: ti-camera # themify icon pack: https://themify.me/themify-icons
+      content: Haben Sie ein geschätztes Foto, eine Skizze oder sogar ein physisches Objekt, das Sie in 3D verewigen möchten? Unsere erfahrenen Techniker können Ihre 2D-Bilder in detaillierte 3D-Modelle verwandeln, die für den Druck bereit sind. Ob es sich um ein Familienporträt, ein geliebtes Haustier oder ein Kunstwerk handelt, wir erfassen seine Essenz und erwecken es in einer neuen Dimension zum Leben.
+
+    # service item loop
+    - name: 3D-Druckdienstleistungen
+      icon: ti-printer # themify icon pack: https://themify.me/themify-icons
+      content: Haben Sie bereits ein 3D-Modell, benötigen es aber gedruckt? Suchen Sie nicht weiter! Wir bieten erstklassige 3D-Druckdienstleistungen mit einer Vielzahl von Materialien und Oberflächen an, um Ihren Bedürfnissen gerecht zu werden. Stellen Sie uns einfach Ihre Modelldatei (STL, OBJ oder andere gängige Formate) zur Verfügung, und wir kümmern uns um den Rest. Unsere Präzisionsdrucker und strenge Qualitätskontrolle stellen sicher, dass Ihr fertiges Produkt den höchsten Standards entspricht.

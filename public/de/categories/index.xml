@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/de/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3D Printing</title>
-      <link>http://localhost:1313/de/categories/3d-printing/</link>
+      <title>3D-Druck</title>
+      <link>http://localhost:1313/de/categories/3d-druck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/categories/3d-printing/</guid>
+      <guid>http://localhost:1313/de/categories/3d-druck/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +20,6 @@
       <link>http://localhost:1313/de/categories/technologie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/categories/technologie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/de/categories/technology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/categories/technology/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,27 +1,27 @@
-############################# feature ###################################
+############################# Caractéristique ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
+  image : images/about/ingranaggi.png
+  image_webp : images/about/ingranaggi.png
+  title : Conception efficace et innovante
+  content : "Chez CreaLab, nous ne créons pas seulement des designs ; nous concevons des solutions. Nous analysons méticuleusement vos besoins et vos exigences techniques pour développer des modèles 3D à la fois esthétiques et fonctionnellement optimisés. Notre approche innovante garantit que votre produit est non seulement beau, mais aussi performant."
+  feature_item: 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Expertise en conception
+      icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
+      content : Nos designers expérimentés créent des modèles 3D personnalisés qui privilégient la fonctionnalité, l'esthétique et la fabricabilité, garantissant le succès de votre produit.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Découpage de précision
+      icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
+      content : Nous utilisons des techniques de découpage avancées pour optimiser vos modèles 3D pour l'impression, garantissant précision, efficacité et un minimum de gaspillage de matériau.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Sélection des matériaux
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : Nous proposons une large gamme de matériaux pour répondre aux besoins uniques de votre projet. De la résistance et de la flexibilité à la durabilité, nous trouverons la solution idéale.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Tests de prototypes
+      icon : ti-dashboard # themify icon pack : https://themify.me/themify-icons
+      content : Des tests rigoureux de vos prototypes garantissent qu'ils répondent à vos attentes et fonctionnent parfaitement, vous permettant d'économiser du temps et des ressources à long terme.

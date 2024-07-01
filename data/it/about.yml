@@ -1,0 +1,16 @@
+############################# Chi siamo ###################################
+about:
+  enable : true
+  title : Chi siamo
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Siamo creativi
+    content : Il nostro team di designer e ingegneri di talento prospera nel trasformare le tue idee in realtà. Approcciamo ogni progetto con una nuova prospettiva e soluzioni innovative, assicurando che la tua visione prenda vita nel modo più creativo possibile.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Siamo professionali
+    content : Con anni di esperienza nella stampa 3D e nel design, forniamo risultati eccezionali con un impegno per la qualità e la precisione. Siamo orgogliosi della nostra meticolosa attenzione ai dettagli e della nostra capacità di soddisfare anche i requisiti di progetto più esigenti.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Siamo dei geni
+    content : Non ci limitiamo a stampare oggetti; risolviamo problemi. Il nostro team di esperti combina competenza tecnica e ingegno creativo per sviluppare soluzioni innovative che spingono i confini di ciò che è possibile con la stampa 3D.

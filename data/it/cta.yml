@@ -1,0 +1,11 @@
+############################# Call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg_printer.jpg"
+  bg_image_webp : "images/backgrounds/bg_printer.webp"
+  title : "Design Eccezionale e Funzionalità Incredibili"
+  content : "Hai una domanda o un progetto in mente? Siamo qui per aiutarti! Contattaci oggi per una consulenza gratuita."
+  button:
+    enable : true
+    label : "Inizia un progetto con noi"
+    link : "#contact"

@@ -1,0 +1,27 @@
+############################# Caratteristiche ###################################
+feature:
+  enable : true
+  image : images/about/ingranaggi.png
+  image_webp : images/about/ingranaggi.png
+  title : Design Efficiente e Innovativo
+  content : "In CreaLab, non ci limitiamo a creare design; creiamo soluzioni. Analizziamo meticolosamente le tue esigenze e i requisiti tecnici per sviluppare modelli 3D che siano sia visivamente accattivanti che funzionalmente ottimizzati. Il nostro approccio innovativo assicura che il tuo prodotto non solo abbia un bell'aspetto, ma funzioni anche in modo impeccabile."
+  feature_item: 
+      # feature item loop
+    - title : Competenza nel Design
+      icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
+      content : I nostri designer esperti creano modelli 3D personalizzati che danno priorità alla funzionalità, all'estetica e alla producibilità, garantendo il successo del tuo prodotto.
+      
+      # feature item loop
+    - title : Slicing di Precisione
+      icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
+      content : Utilizziamo tecniche di slicing avanzate per ottimizzare i tuoi modelli 3D per la stampa, garantendo precisione, efficienza e un minimo spreco di materiale.
+
+      # feature item loop
+    - title : Selezione dei Materiali
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : Offriamo un'ampia gamma di materiali per soddisfare le esigenze uniche del tuo progetto. Dalla forza e flessibilità alla durata, troveremo la soluzione perfetta.
+      
+      # feature item loop
+    - title : Test del Prototipo
+      icon : ti-dashboard # themify icon pack : https://themify.me/themify-icons
+      content : Test rigorosi dei tuoi prototipi assicurano che soddisfino le tue aspettative e funzionino perfettamente, facendoti risparmiare tempo e risorse a lungo termine.

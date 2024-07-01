@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  image : images/about/ingranaggi.png
+  image_webp : images/about/ingranaggi.png
+  title : Efficient and Innovative Design
+  content : "At CreaLab, we don't just create designs; we craft solutions. We meticulously analyze your needs and technical requirements to develop 3D models that are both visually appealing and functionally optimized. Our innovative approach ensures your product not only looks great but also performs flawlessly."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Design Expertise
+      icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
+      content : Our skilled designers create custom 3D models that prioritize functionality, aesthetics, and manufacturability, ensuring your product's success.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Precision Slicing
+      icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
+      content : We use advanced slicing techniques to optimize your 3D models for printing, guaranteeing accuracy, efficiency, and minimal material waste.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Material Selection
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : We offer a wide range of materials to meet your project's unique needs. From strength and flexibility to durability, we'll find the perfect fit.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Prototype Testing
+      icon : ti-dashboard # themify icon pack : https://themify.me/themify-icons
+      content : Rigorous testing of your prototypes ensures they meet your expectations and function flawlessly, saving you time and resources in the long run.

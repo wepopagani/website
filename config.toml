@@ -174,7 +174,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "/images/logo.png"
 # Meta data
 description = "a website offering 3d printing and design services "
 author = "Marco Pagani"

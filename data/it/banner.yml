@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable: true
+  bg_image_webp: "images/backgrounds/bg_main.webp"
+  bg_image: "images/backgrounds/bg_main.png"
+  icon: "" # themify icon pack: https://themify.me/themify-icons
+  title: "Benvenuti in CreaLab"
+  content: "Sogni un oggetto unico, un prototipo funzionale o un pezzo di ricambio introvabile? La nostra stampa 3D all'avanguardia trasforma i tuoi progetti in realtà tangibile."
+  button:
+    enable: true
+    label: "Esploraci"
+    link: "#services"

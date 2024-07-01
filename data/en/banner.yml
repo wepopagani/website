@@ -1,11 +1,11 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image_webp : "images/backgrounds/bg_main.webp"
+  bg_image : "images/backgrounds/bg_main.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "Welcome to CreaLab"
+  content : "Do you dream of a unique object, a functional prototype, or a hard-to-find spare part? Our cutting-edge 3D printing turns your projects into tangible reality."
   button:
     enable : true
     label : "Explore Us"

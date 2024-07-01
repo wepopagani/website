@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Materials on CreaLab</title>
-    <link>https://crealab.lu/tags/materials/</link>
+    <link>http://localhost:1313/tags/materials/</link>
     <description>Recent content in Materials on CreaLab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="https://crealab.lu/tags/materials/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/materials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Materials for 3D Printing: A Comprehensive Guide</title>
-      <link>https://crealab.lu/blog/material/</link>
+      <link>http://localhost:1313/blog/material/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>https://crealab.lu/blog/material/</guid>
+      <guid>http://localhost:1313/blog/material/</guid>
       <description>3D printing is revolutionizing industries and transforming the way we create objects. A crucial aspect of this technology is the wide range of materials available, each with unique properties and applications.</description>
     </item>
   </channel>

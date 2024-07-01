@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harz on CreaLab</title>
-    <link>https://crealab.lu/de/tags/harz/</link>
+    <link>http://localhost:1313/de/tags/harz/</link>
     <description>Recent content in Harz on CreaLab</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="https://crealab.lu/de/tags/harz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/de/tags/harz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Materialien für den 3D-Druck: Ein umfassender Leitfaden</title>
-      <link>https://crealab.lu/de/blog/material/</link>
+      <link>http://localhost:1313/de/blog/material/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>https://crealab.lu/de/blog/material/</guid>
+      <guid>http://localhost:1313/de/blog/material/</guid>
       <description>Der 3D-Druck revolutioniert Branchen und verändert die Art und Weise, wie wir Objekte herstellen. Ein entscheidender Aspekt dieser Technologie ist die breite Palette an verfügbaren Materialien, jedes mit einzigartigen Eigenschaften und Anwendungen.</description>
     </item>
   </channel>

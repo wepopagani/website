@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3D-Modelle on CreaLab</title>
-    <link>https://crealab.lu/de/tags/3d-modelle/</link>
+    <link>http://localhost:1313/de/tags/3d-modelle/</link>
     <description>Recent content in 3D-Modelle on CreaLab</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="https://crealab.lu/de/tags/3d-modelle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/de/tags/3d-modelle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slicing: Der Schlüssel zum erfolgreichen 3D-Druck</title>
-      <link>https://crealab.lu/de/blog/slicing/</link>
+      <link>http://localhost:1313/de/blog/slicing/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>https://crealab.lu/de/blog/slicing/</guid>
+      <guid>http://localhost:1313/de/blog/slicing/</guid>
       <description>Slicing: Der unsichtbare Held des 3D-Drucks Slicing ist ein entscheidender Schritt im 3D-Druckprozess, der oft unbemerkt bleibt, aber eine wichtige Rolle für den Erfolg Ihrer Drucke spielt.</description>
     </item>
   </channel>

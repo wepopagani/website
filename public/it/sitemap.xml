@@ -2,298 +2,298 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://crealab.lu/it/author/marco-pagani/</loc>
+    <loc>http://localhost:1313/it/author/marco-pagani/</loc>
     <lastmod>2024-06-30T19:55:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://crealab.lu/author/marco-pagani/"
+                href="http://localhost:1313/author/marco-pagani/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://crealab.lu/fr/author/marco-pagani/"
+                href="http://localhost:1313/fr/author/marco-pagani/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://crealab.lu/de/author/marco-pagani/"
+                href="http://localhost:1313/de/author/marco-pagani/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="https://crealab.lu/it/author/marco-pagani/"
+                href="http://localhost:1313/it/author/marco-pagani/"
                 />
   </url><url>
-    <loc>https://crealab.lu/it/author/</loc>
+    <loc>http://localhost:1313/it/author/</loc>
     <lastmod>2024-06-30T19:55:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://crealab.lu/author/"
+                href="http://localhost:1313/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://crealab.lu/de/author/"
+                href="http://localhost:1313/de/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://crealab.lu/fr/author/"
+                href="http://localhost:1313/fr/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="https://crealab.lu/it/author/"
+                href="http://localhost:1313/it/author/"
                 />
   </url><url>
-    <loc>https://crealab.lu/it/</loc>
+    <loc>http://localhost:1313/it/</loc>
     <lastmod>2024-06-30T19:55:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://crealab.lu/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://crealab.lu/de/"
+                href="http://localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://crealab.lu/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="https://crealab.lu/it/"
+                href="http://localhost:1313/it/"
                 />
   </url><url>
-    <loc>https://crealab.lu/it/tags/applicazioni/</loc>
+    <loc>http://localhost:1313/it/tags/applicazioni/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/tags/biostampa/</loc>
+    <loc>http://localhost:1313/it/tags/biostampa/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/blog/</loc>
+    <loc>http://localhost:1313/it/blog/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://crealab.lu/blog/"
+                href="http://localhost:1313/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://crealab.lu/de/blog/"
+                href="http://localhost:1313/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://crealab.lu/fr/blog/"
+                href="http://localhost:1313/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="https://crealab.lu/it/blog/"
+                href="http://localhost:1313/it/blog/"
                 />
   </url><url>
-    <loc>https://crealab.lu/it/categories/</loc>
+    <loc>http://localhost:1313/it/categories/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://crealab.lu/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://crealab.lu/de/categories/"
+                href="http://localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://crealab.lu/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="https://crealab.lu/it/categories/"
+                href="http://localhost:1313/it/categories/"
                 />
   </url><url>
-    <loc>https://crealab.lu/it/tags/filamento/</loc>
+    <loc>http://localhost:1313/it/tags/filamento/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/tags/futuro/</loc>
+    <loc>http://localhost:1313/it/tags/futuro/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/blog/future/</loc>
+    <loc>http://localhost:1313/it/blog/future/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://crealab.lu/de/blog/future/"
+                href="http://localhost:1313/de/blog/future/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://crealab.lu/fr/blog/future/"
+                href="http://localhost:1313/fr/blog/future/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://crealab.lu/blog/future/"
+                href="http://localhost:1313/blog/future/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="https://crealab.lu/it/blog/future/"
+                href="http://localhost:1313/it/blog/future/"
                 />
   </url><url>
-    <loc>https://crealab.lu/it/tags/innovazione/</loc>
+    <loc>http://localhost:1313/it/tags/innovazione/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/tags/materiali/</loc>
+    <loc>http://localhost:1313/it/tags/materiali/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/blog/material/</loc>
+    <loc>http://localhost:1313/it/blog/material/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://crealab.lu/de/blog/material/"
+                href="http://localhost:1313/de/blog/material/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://crealab.lu/blog/material/"
+                href="http://localhost:1313/blog/material/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://crealab.lu/fr/blog/material/"
+                href="http://localhost:1313/fr/blog/material/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="https://crealab.lu/it/blog/material/"
+                href="http://localhost:1313/it/blog/material/"
                 />
   </url><url>
-    <loc>https://crealab.lu/it/tags/metallo/</loc>
+    <loc>http://localhost:1313/it/tags/metallo/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/tags/modelli-3d/</loc>
+    <loc>http://localhost:1313/it/tags/modelli-3d/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/tags/resina/</loc>
+    <loc>http://localhost:1313/it/tags/resina/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/tags/slicing/</loc>
+    <loc>http://localhost:1313/it/tags/slicing/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://crealab.lu/tags/slicing/"
+                href="http://localhost:1313/tags/slicing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://crealab.lu/de/tags/slicing/"
+                href="http://localhost:1313/de/tags/slicing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="https://crealab.lu/it/tags/slicing/"
+                href="http://localhost:1313/it/tags/slicing/"
                 />
   </url><url>
-    <loc>https://crealab.lu/it/blog/slicing/</loc>
+    <loc>http://localhost:1313/it/blog/slicing/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://crealab.lu/fr/blog/slicing/"
+                href="http://localhost:1313/fr/blog/slicing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://crealab.lu/de/blog/slicing/"
+                href="http://localhost:1313/de/blog/slicing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://crealab.lu/blog/slicing/"
+                href="http://localhost:1313/blog/slicing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="https://crealab.lu/it/blog/slicing/"
+                href="http://localhost:1313/it/blog/slicing/"
                 />
   </url><url>
-    <loc>https://crealab.lu/it/tags/software/</loc>
+    <loc>http://localhost:1313/it/tags/software/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://crealab.lu/tags/software/"
+                href="http://localhost:1313/tags/software/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://crealab.lu/de/tags/software/"
+                href="http://localhost:1313/de/tags/software/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="https://crealab.lu/it/tags/software/"
+                href="http://localhost:1313/it/tags/software/"
                 />
   </url><url>
-    <loc>https://crealab.lu/it/tags/stampa/</loc>
+    <loc>http://localhost:1313/it/tags/stampa/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/tags/stampa-3d/</loc>
+    <loc>http://localhost:1313/it/tags/stampa-3d/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/categories/stampa-3d/</loc>
+    <loc>http://localhost:1313/it/categories/stampa-3d/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/tags/stampa-3d-metallo/</loc>
+    <loc>http://localhost:1313/it/tags/stampa-3d-metallo/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/tags/stampa-3d-su-larga-scala/</loc>
+    <loc>http://localhost:1313/it/tags/stampa-3d-su-larga-scala/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/tags/stampa-4d/</loc>
+    <loc>http://localhost:1313/it/tags/stampa-4d/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/tags/</loc>
+    <loc>http://localhost:1313/it/tags/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://crealab.lu/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://crealab.lu/de/tags/"
+                href="http://localhost:1313/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://crealab.lu/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-it"
-                href="https://crealab.lu/it/tags/"
+                href="http://localhost:1313/it/tags/"
                 />
   </url><url>
-    <loc>https://crealab.lu/it/tags/tecnologia/</loc>
+    <loc>http://localhost:1313/it/tags/tecnologia/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://crealab.lu/it/categories/tecnologia/</loc>
+    <loc>http://localhost:1313/it/categories/tecnologia/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
 </urlset>

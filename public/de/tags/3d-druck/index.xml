@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3D-Druck on CreaLab</title>
-    <link>https://crealab.lu/de/tags/3d-druck/</link>
+    <link>http://localhost:1313/de/tags/3d-druck/</link>
     <description>Recent content in 3D-Druck on CreaLab</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="https://crealab.lu/de/tags/3d-druck/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/de/tags/3d-druck/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Die Zukunft des 3D-Drucks: Ein Blick auf die Innovationen von morgen</title>
-      <link>https://crealab.lu/de/blog/future/</link>
+      <link>http://localhost:1313/de/blog/future/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>https://crealab.lu/de/blog/future/</guid>
+      <guid>http://localhost:1313/de/blog/future/</guid>
       <description>Die 3D-Drucklandschaft befindet sich in einem ständigen Wandel, mit neuen Technologien und Anwendungen, die in rasantem Tempo entstehen.</description>
     </item>
     <item>
       <title>Materialien für den 3D-Druck: Ein umfassender Leitfaden</title>
-      <link>https://crealab.lu/de/blog/material/</link>
+      <link>http://localhost:1313/de/blog/material/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>https://crealab.lu/de/blog/material/</guid>
+      <guid>http://localhost:1313/de/blog/material/</guid>
       <description>Der 3D-Druck revolutioniert Branchen und verändert die Art und Weise, wie wir Objekte herstellen. Ein entscheidender Aspekt dieser Technologie ist die breite Palette an verfügbaren Materialien, jedes mit einzigartigen Eigenschaften und Anwendungen.</description>
     </item>
     <item>
       <title>Slicing: Der Schlüssel zum erfolgreichen 3D-Druck</title>
-      <link>https://crealab.lu/de/blog/slicing/</link>
+      <link>http://localhost:1313/de/blog/slicing/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>https://crealab.lu/de/blog/slicing/</guid>
+      <guid>http://localhost:1313/de/blog/slicing/</guid>
       <description>Slicing: Der unsichtbare Held des 3D-Drucks Slicing ist ein entscheidender Schritt im 3D-Druckprozess, der oft unbemerkt bleibt, aber eine wichtige Rolle für den Erfolg Ihrer Drucke spielt.</description>
     </item>
   </channel>

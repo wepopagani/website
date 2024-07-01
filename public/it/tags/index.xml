@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CreaLab</title>
-    <link>https://crealab.lu/it/tags/</link>
+    <link>http://localhost:1313/it/tags/</link>
     <description>Recent content in Tags on CreaLab</description>
     <generator>Hugo</generator>
     <language>it-it</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="https://crealab.lu/it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/it/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Applicazioni</title>
-      <link>https://crealab.lu/it/tags/applicazioni/</link>
+      <link>http://localhost:1313/it/tags/applicazioni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/applicazioni/</guid>
+      <guid>http://localhost:1313/it/tags/applicazioni/</guid>
       <description></description>
     </item>
     <item>
       <title>Biostampa</title>
-      <link>https://crealab.lu/it/tags/biostampa/</link>
+      <link>http://localhost:1313/it/tags/biostampa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/biostampa/</guid>
+      <guid>http://localhost:1313/it/tags/biostampa/</guid>
       <description></description>
     </item>
     <item>
       <title>Filamento</title>
-      <link>https://crealab.lu/it/tags/filamento/</link>
+      <link>http://localhost:1313/it/tags/filamento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/filamento/</guid>
+      <guid>http://localhost:1313/it/tags/filamento/</guid>
       <description></description>
     </item>
     <item>
       <title>Futuro</title>
-      <link>https://crealab.lu/it/tags/futuro/</link>
+      <link>http://localhost:1313/it/tags/futuro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/futuro/</guid>
+      <guid>http://localhost:1313/it/tags/futuro/</guid>
       <description></description>
     </item>
     <item>
       <title>Innovazione</title>
-      <link>https://crealab.lu/it/tags/innovazione/</link>
+      <link>http://localhost:1313/it/tags/innovazione/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/innovazione/</guid>
+      <guid>http://localhost:1313/it/tags/innovazione/</guid>
       <description></description>
     </item>
     <item>
       <title>Materiali</title>
-      <link>https://crealab.lu/it/tags/materiali/</link>
+      <link>http://localhost:1313/it/tags/materiali/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/materiali/</guid>
+      <guid>http://localhost:1313/it/tags/materiali/</guid>
       <description></description>
     </item>
     <item>
       <title>Metallo</title>
-      <link>https://crealab.lu/it/tags/metallo/</link>
+      <link>http://localhost:1313/it/tags/metallo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/metallo/</guid>
+      <guid>http://localhost:1313/it/tags/metallo/</guid>
       <description></description>
     </item>
     <item>
       <title>Modelli 3D</title>
-      <link>https://crealab.lu/it/tags/modelli-3d/</link>
+      <link>http://localhost:1313/it/tags/modelli-3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/modelli-3d/</guid>
+      <guid>http://localhost:1313/it/tags/modelli-3d/</guid>
       <description></description>
     </item>
     <item>
       <title>Resina</title>
-      <link>https://crealab.lu/it/tags/resina/</link>
+      <link>http://localhost:1313/it/tags/resina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/resina/</guid>
+      <guid>http://localhost:1313/it/tags/resina/</guid>
       <description></description>
     </item>
     <item>
       <title>Slicing</title>
-      <link>https://crealab.lu/it/tags/slicing/</link>
+      <link>http://localhost:1313/it/tags/slicing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/slicing/</guid>
+      <guid>http://localhost:1313/it/tags/slicing/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>https://crealab.lu/it/tags/software/</link>
+      <link>http://localhost:1313/it/tags/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/software/</guid>
+      <guid>http://localhost:1313/it/tags/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Stampa</title>
-      <link>https://crealab.lu/it/tags/stampa/</link>
+      <link>http://localhost:1313/it/tags/stampa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/stampa/</guid>
+      <guid>http://localhost:1313/it/tags/stampa/</guid>
       <description></description>
     </item>
     <item>
       <title>Stampa 3D</title>
-      <link>https://crealab.lu/it/tags/stampa-3d/</link>
+      <link>http://localhost:1313/it/tags/stampa-3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/stampa-3d/</guid>
+      <guid>http://localhost:1313/it/tags/stampa-3d/</guid>
       <description></description>
     </item>
     <item>
       <title>Stampa 3D Metallo</title>
-      <link>https://crealab.lu/it/tags/stampa-3d-metallo/</link>
+      <link>http://localhost:1313/it/tags/stampa-3d-metallo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/stampa-3d-metallo/</guid>
+      <guid>http://localhost:1313/it/tags/stampa-3d-metallo/</guid>
       <description></description>
     </item>
     <item>
       <title>Stampa 3D Su Larga Scala</title>
-      <link>https://crealab.lu/it/tags/stampa-3d-su-larga-scala/</link>
+      <link>http://localhost:1313/it/tags/stampa-3d-su-larga-scala/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/stampa-3d-su-larga-scala/</guid>
+      <guid>http://localhost:1313/it/tags/stampa-3d-su-larga-scala/</guid>
       <description></description>
     </item>
     <item>
       <title>Stampa 4D</title>
-      <link>https://crealab.lu/it/tags/stampa-4d/</link>
+      <link>http://localhost:1313/it/tags/stampa-4d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/stampa-4d/</guid>
+      <guid>http://localhost:1313/it/tags/stampa-4d/</guid>
       <description></description>
     </item>
     <item>
       <title>Tecnologia</title>
-      <link>https://crealab.lu/it/tags/tecnologia/</link>
+      <link>http://localhost:1313/it/tags/tecnologia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://crealab.lu/it/tags/tecnologia/</guid>
+      <guid>http://localhost:1313/it/tags/tecnologia/</guid>
       <description></description>
     </item>
   </channel>

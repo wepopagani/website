@@ -6,70 +6,28 @@
     <description>Recent content in Blogs on Meghna</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/meghna/examplesite/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Are You Doing the Right Way</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-8/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-8/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/blog/installation/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
-    </item>
-    <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-1/</link>
+      <title>Slicing: The Key to Successful 3D Printing</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/blog/slicing/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-1/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>http://localhost:1313/meghna/examplesite/fr/blog/slicing/</guid>
+      <description>Slicing: The Unsung Hero of 3D Printing Slicing is a crucial step in the 3D printing process that often goes unnoticed but plays a significant role in the success of your prints.</description>
     </item>
     <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-2/</link>
+      <title>The Future of 3D Printing: A Glimpse into Tomorrow&#39;s Innovations</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/blog/future/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-2/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>http://localhost:1313/meghna/examplesite/fr/blog/future/</guid>
+      <description>The 3D printing landscape is in a state of constant evolution, with new technologies and applications emerging at a rapid pace.</description>
     </item>
     <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-3/</link>
+      <title>The Future of 3D Printing: A Glimpse into Tomorrow&#39;s Innovations</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/blog/material/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-3/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-4/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-4/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-5/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-5/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-6/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-6/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-7/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-7/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>http://localhost:1313/meghna/examplesite/fr/blog/material/</guid>
+      <description>The world of 3D printing is constantly evolving, with new technologies and applications emerging at a rapid pace.</description>
     </item>
   </channel>
 </rss>

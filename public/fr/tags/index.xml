@@ -6,6 +6,91 @@
     <description>Recent content in Tags on Meghna</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
+    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/meghna/examplesite/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Models</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/3d-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/3d-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3D Printing</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/3d-printing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/3d-printing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4D Printing</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/4d-printing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/4d-printing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bioprinting</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/bioprinting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/bioprinting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/future/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Innovation</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/innovation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/innovation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Large-Scale 3D Printing</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/large-scale-3d-printing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/large-scale-3d-printing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metal 3D Printing</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/metal-3d-printing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/metal-3d-printing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Printing</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/printing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/printing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slicing</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/slicing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/slicing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/meghna/examplesite/fr/tags/technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/fr/tags/technology/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

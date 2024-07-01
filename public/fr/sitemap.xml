@@ -2,150 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-8/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <loc>http://localhost:1313/meghna/examplesite/fr/author/marco-pagani/</loc>
+    <lastmod>2024-06-30T19:55:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/blog/simple-blog-post-8/"
+                href="http://localhost:1313/meghna/examplesite/author/marco-pagani/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-8/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/blog/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/blog/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/blog/installation/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/blog/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/blog/installation/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-1/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/blog/simple-blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-1/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-2/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/blog/simple-blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-2/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-3/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/blog/simple-blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-3/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-4/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/blog/simple-blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-4/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-5/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/blog/simple-blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-5/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-6/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/blog/simple-blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-6/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-7/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/blog/simple-blog-post-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/blog/simple-blog-post-7/"
+                href="http://localhost:1313/meghna/examplesite/fr/author/marco-pagani/"
                 />
   </url><url>
     <loc>http://localhost:1313/meghna/examplesite/fr/author/</loc>
+    <lastmod>2024-06-30T19:55:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -157,7 +28,99 @@
                 href="http://localhost:1313/meghna/examplesite/fr/author/"
                 />
   </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/</loc>
+    <lastmod>2024-06-30T19:55:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/3d-models/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/tags/3d-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/3d-models/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/3d-printing/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/tags/3d-printing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/3d-printing/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/categories/3d-printing/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/categories/3d-printing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/categories/3d-printing/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/4d-printing/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/tags/4d-printing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/4d-printing/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/bioprinting/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/tags/bioprinting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/bioprinting/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/blog/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/blog/"
+                />
+  </url><url>
     <loc>http://localhost:1313/meghna/examplesite/fr/categories/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -169,31 +132,112 @@
                 href="http://localhost:1313/meghna/examplesite/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/author/john-doe/</loc>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/future/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/author/john-doe/"
+                href="http://localhost:1313/meghna/examplesite/tags/future/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/author/john-doe/"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/future/"
                 />
   </url><url>
-    <loc>http://localhost:1313/meghna/examplesite/fr/author/mark-dinn/</loc>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/innovation/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/meghna/examplesite/author/mark-dinn/"
+                href="http://localhost:1313/meghna/examplesite/tags/innovation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/meghna/examplesite/fr/author/mark-dinn/"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/innovation/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/large-scale-3d-printing/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/tags/large-scale-3d-printing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/large-scale-3d-printing/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/metal-3d-printing/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/tags/metal-3d-printing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/metal-3d-printing/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/printing/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/tags/printing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/printing/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/slicing/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/tags/slicing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/slicing/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/blog/slicing/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/blog/slicing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/blog/slicing/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/software/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/tags/software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/software/"
                 />
   </url><url>
     <loc>http://localhost:1313/meghna/examplesite/fr/tags/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -203,6 +247,58 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="http://localhost:1313/meghna/examplesite/fr/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/tags/technology/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/tags/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/tags/technology/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/categories/technology/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/categories/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/categories/technology/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/blog/future/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/blog/future/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/blog/future/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/meghna/examplesite/fr/blog/material/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/meghna/examplesite/blog/material/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/meghna/examplesite/fr/blog/material/"
                 />
   </url>
 </urlset>

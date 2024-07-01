@@ -574,18 +574,18 @@
 			
 			
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<form id="contact-form" class="form-meghna" method="post" enctype="multipart/form-data" data-netlify="true" data-netlify-recaptcha="true">
+				<form id="contact-form" class="form-meghna" method="post" enctype="multipart/form-data" action="#" data-netlify="true" data-netlify-recaptcha="true" netlify-honeypot="bot-field">
 					<div class="form-group">
-						<input type="text" placeholder="Ihr Name" class="form-control" name="name" id="name">
+						<input type="text" placeholder="Ihr Name" class="form-control" name="name" id="name" required>
 					</div>
 					<div class="form-group">
-						<input type="email" placeholder="Ihre E-Mail" class="form-control" name="email" id="email">
+						<input type="email" placeholder="Ihre E-Mail" class="form-control" name="email" id="email" required>
 					</div>
 					<div class="form-group">
-						<input type="text" placeholder="Betreff" class="form-control" name="subject" id="subject">
+						<input type="text" placeholder="Betreff" class="form-control" name="subject" id="subject" required>
 					</div>
 					<div class="form-group">
-						<textarea rows="6" placeholder="Nachricht" class="form-control" name="message" id="message"></textarea>
+						<textarea rows="6" placeholder="Nachricht" class="form-control" name="message" id="message" required></textarea>
 					</div>
 					<!-- File Upload -->
 					<div class="form-group">
@@ -596,7 +596,16 @@
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block"
 							value="Absenden">Absenden</button>
 					</div>
+					<div style="display: none;">
+						<label>Don't fill this out if you're human: <input name="bot-field"></label>
+					</div>
 				</form>
+				<div id="success-message" class="alert alert-success mt-4" style="display: none;">
+					<strong>Grazie!</strong> Il tuo messaggio è stato inviato con successo.
+				</div>
+				<div id="error-message" class="alert alert-danger mt-4" style="display: none;">
+					<strong>Errore!</strong> Si è verificato un problema durante l'invio del modulo. Riprova più tardi.
+				</div>
 			</div>
 			
 			
@@ -607,8 +616,39 @@
 
 
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+	const form = document.getElementById("contact-form");
+	const successMessage = document.getElementById("success-message");
+	const errorMessage = document.getElementById("error-message");
 
+	form.addEventListener("submit", function (event) {
+		event.preventDefault();
 
+		const formData = new FormData(form);
+
+		fetch("/", {
+			method: "POST",
+			headers: { "Content-Type": "application/x-www-form-urlencoded" },
+			body: new URLSearchParams(formData).toString()
+		})
+		.then(response => {
+			if (response.ok) {
+				form.reset();
+				successMessage.style.display = "block";
+				errorMessage.style.display = "none";
+			} else {
+				throw new Error("Network response was not ok");
+			}
+		})
+		.catch(error => {
+			console.error("There was a problem with your submission:", error);
+			successMessage.style.display = "none";
+			errorMessage.style.display = "block";
+		});
+	});
+});
+</script>
 
 
 

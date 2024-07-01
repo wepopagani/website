@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Innovation on CreaLab</title>
-    <link>http://localhost:1313/fr/tags/innovation/</link>
+    <link>https://crealab.lu/fr/tags/innovation/</link>
     <description>Recent content in Innovation on CreaLab</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://crealab.lu/fr/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;Avenir de l&#39;Impression 3D : Un Aperçu des Innovations de Demain</title>
-      <link>http://localhost:1313/fr/blog/future/</link>
+      <link>https://crealab.lu/fr/blog/future/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/fr/blog/future/</guid>
+      <guid>https://crealab.lu/fr/blog/future/</guid>
       <description>Le paysage de l&amp;rsquo;impression 3D est en constante évolution, avec de nouvelles technologies et applications qui émergent à un rythme rapide.</description>
     </item>
   </channel>

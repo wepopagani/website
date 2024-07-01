@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3D Printing on CreaLab</title>
-    <link>http://localhost:1313/tags/3d-printing/</link>
+    <link>https://crealab.lu/tags/3d-printing/</link>
     <description>Recent content in 3D Printing on CreaLab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://crealab.lu/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Materials for 3D Printing: A Comprehensive Guide</title>
-      <link>http://localhost:1313/blog/material/</link>
+      <link>https://crealab.lu/blog/material/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/blog/material/</guid>
+      <guid>https://crealab.lu/blog/material/</guid>
       <description>3D printing is revolutionizing industries and transforming the way we create objects. A crucial aspect of this technology is the wide range of materials available, each with unique properties and applications.</description>
     </item>
     <item>
       <title>Slicing: The Key to Successful 3D Printing</title>
-      <link>http://localhost:1313/blog/slicing/</link>
+      <link>https://crealab.lu/blog/slicing/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/blog/slicing/</guid>
+      <guid>https://crealab.lu/blog/slicing/</guid>
       <description>Slicing: The Unsung Hero of 3D Printing Slicing is a crucial step in the 3D printing process that often goes unnoticed but plays a significant role in the success of your prints.</description>
     </item>
     <item>
       <title>The Future of 3D Printing: A Glimpse into Tomorrow&#39;s Innovations</title>
-      <link>http://localhost:1313/blog/future/</link>
+      <link>https://crealab.lu/blog/future/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/blog/future/</guid>
+      <guid>https://crealab.lu/blog/future/</guid>
       <description>The 3D printing landscape is in a state of constant evolution, with new technologies and applications emerging at a rapid pace.</description>
     </item>
   </channel>

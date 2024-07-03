@@ -3,7 +3,7 @@
 {{ if $data.contact.contact.enable }}
 {{ with $data.contact.contact }}
 {{"<!-- Start Contact Us -->" | safeHTML}}
-<form id="contact-form" class="contact-us section-bg" method="post" enctype="multipart/form-data" data-netlify="true" netlify-honeypot="bot-field">
+<form id="contact-form" class="contact-us section-bg" method="post" enctype="multipart/form-data" data-netlify="true">
 	<input type="hidden" name="form-name" value="contact-form">
     <div class="container pb-5">
         <div class="row">
@@ -38,7 +38,7 @@
             {{ if .contact_form.enable }}
             {{ with .contact_form }}
             <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                <form id="contact-form" class="form-meghna" method="post" enctype="multipart/form-data" data-netlify="true" data-netlify-recaptcha="true" netlify-honeypot="bot-field">
+                <form id="contact-form" class="form-meghna" method="post" enctype="multipart/form-data" data-netlify="true" data-netlify-recaptcha="true">
                     <div class="form-group">
                         <input type="name" placeholder="{{ .name }}" class="form-control" name="name" id="name" required>
                     </div>

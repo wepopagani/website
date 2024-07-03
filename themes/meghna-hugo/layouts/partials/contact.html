@@ -3,7 +3,8 @@
 {{ if $data.contact.contact.enable }}
 {{ with $data.contact.contact }}
 {{"<!-- Start Contact Us -->" | safeHTML}}
-<section id="contact" class="contact-us section-bg">
+<form id="contact-form" class="contact-us section-bg" method="post" enctype="multipart/form-data" data-netlify="true" netlify-honeypot="bot-field">
+	<input type="hidden" name="form-name" value="contact-form">
     <div class="container pb-5">
         <div class="row">
             <div class="col-lg-12">

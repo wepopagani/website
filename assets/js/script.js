@@ -107,21 +107,36 @@ jQuery(function ($) {
         counter();
     });
 
-    /* ========================================================================= */
-    /* Contact Form Submission Handling
-    /* ========================================================================= */
-    document.addEventListener("DOMContentLoaded", function () {
-        const form = document.getElementById("contact-form");
-        const successMessage = document.getElementById("success-message");
-        const errorMessage = document.getElementById("error-message");
+}); // Fine della funzione jQuery principale
 
-        form.addEventListener("submit", function (event) {
-            event.preventDefault();
+/* ========================================================================= */
+/* Contact Form Submission Handling for Netlify
+/* ========================================================================= */
+document.addEventListener("DOMContentLoaded", function () {
+    const form = document.getElementById("contact-form");
+    const successMessage = document.getElementById("success-message");
+    const errorMessage = document.getElementById("error-message");
 
-			form.reset()
-			successMessage.style.display = "block";
-			errorMessage.style.display = "none";
-            
+    form.addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        fetch("/", {
+            method: "POST",
+            body: new FormData(form)
+        })
+        .then(response => {
+            if (response.ok) {
+                form.reset();
+                successMessage.style.display = "block";
+                errorMessage.style.display = "none";
+            } else {
+                throw new Error("Network response was not ok");
+            }
+        })
+        .catch(error => {
+            console.error("There was a problem with your submission:", error);
+            successMessage.style.display = "none";
+            errorMessage.style.display = "block";
         });
     });
 });

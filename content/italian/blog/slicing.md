@@ -1,6 +1,6 @@
 ---
 title: "Slicing: La Chiave per una Stampa 3D di Successo"
-date: 2018-09-12T12:52:36+06:00
+date: 2024-06-28T12:52:36+06:00
 image: images/blog/img3.png
 author: Marco Pagani
 description: "Esplora il ruolo cruciale del software di slicing nella stampa 3D, scopri le funzionalità chiave e ottieni consigli per risultati di stampa ottimali."

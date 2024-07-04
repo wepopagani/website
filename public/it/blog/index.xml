@@ -6,26 +6,33 @@
     <description>Recent content in Blogs on CreaLab</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 12:52:36 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/it/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Il Futuro della Stampa 3D: Uno Sguardo alle Innovazioni di Domani</title>
       <link>http://localhost:1313/it/blog/future/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <pubDate>Fri, 28 Jun 2024 12:52:36 +0600</pubDate>
       <guid>http://localhost:1313/it/blog/future/</guid>
       <description>Il panorama della stampa 3D è in continua evoluzione, con nuove tecnologie e applicazioni che emergono a un ritmo rapido.</description>
     </item>
     <item>
+      <title>La stampa 3D e la gastronomia: una delizia per gli occhi e il palato</title>
+      <link>http://localhost:1313/it/blog/food/</link>
+      <pubDate>Fri, 28 Jun 2024 12:52:36 +0600</pubDate>
+      <guid>http://localhost:1313/it/blog/food/</guid>
+      <description>La stampa 3D, spesso associata a settori come l&amp;rsquo;ingegneria e la medicina, sta sorprendentemente rivoluzionando anche il mondo della gastronomia.</description>
+    </item>
+    <item>
       <title>Materiali per la Stampa 3D: Una Guida Completa</title>
       <link>http://localhost:1313/it/blog/material/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <pubDate>Fri, 28 Jun 2024 12:52:36 +0600</pubDate>
       <guid>http://localhost:1313/it/blog/material/</guid>
       <description>La stampa 3D sta rivoluzionando le industrie e trasformando il modo in cui creiamo oggetti. Un aspetto cruciale di questa tecnologia è l&amp;rsquo;ampia gamma di materiali disponibili, ognuno con proprietà e applicazioni uniche.</description>
     </item>
     <item>
       <title>Slicing: La Chiave per una Stampa 3D di Successo</title>
       <link>http://localhost:1313/it/blog/slicing/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <pubDate>Fri, 28 Jun 2024 12:52:36 +0600</pubDate>
       <guid>http://localhost:1313/it/blog/slicing/</guid>
       <description>Slicing: L&amp;rsquo;Eroe Misconosciuto della Stampa 3D Lo slicing è un passaggio cruciale nel processo di stampa 3D che spesso passa inosservato ma gioca un ruolo fondamentale nel successo delle tue stampe.</description>
     </item>

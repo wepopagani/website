@@ -52,6 +52,11 @@
     <lastmod>2024-06-30T19:55:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/"
                 />
@@ -62,27 +67,22 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="it-it"
                 href="http://localhost:1313/it/"
                 />
   </url><url>
     <loc>http://localhost:1313/it/tags/applicazioni/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/tags/biostampa/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/blog/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blog/"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -91,8 +91,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/blog/"
+                hreflang="en-us"
+                href="http://localhost:1313/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -101,11 +101,11 @@
                 />
   </url><url>
     <loc>http://localhost:1313/it/categories/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -114,8 +114,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/categories/"
+                hreflang="en-us"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -123,14 +123,17 @@
                 href="http://localhost:1313/it/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/it/tags/cibo-stampato-in-3d/</loc>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/it/tags/filamento/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/tags/futuro/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/blog/future/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
@@ -153,13 +156,36 @@
                 />
   </url><url>
     <loc>http://localhost:1313/it/tags/innovazione/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/it/blog/food/</loc>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/blog/food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-de"
+                href="http://localhost:1313/de/blog/food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/blog/food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-it"
+                href="http://localhost:1313/it/blog/food/"
+                />
   </url><url>
     <loc>http://localhost:1313/it/tags/materiali/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/blog/material/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
@@ -182,16 +208,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/it/tags/metallo/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/tags/modelli-3d/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/tags/resina/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/tags/slicing/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -209,7 +235,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/it/blog/slicing/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -232,7 +258,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/it/tags/software/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -250,29 +276,29 @@
                 />
   </url><url>
     <loc>http://localhost:1313/it/tags/stampa/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/tags/stampa-3d/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/categories/stampa-3d/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/tags/stampa-3d-metallo/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/tags/stampa-3d-su-larga-scala/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/tags/stampa-4d/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/tags/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -281,8 +307,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr/tags/"
+                hreflang="en-us"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -291,9 +317,9 @@
                 />
   </url><url>
     <loc>http://localhost:1313/it/tags/tecnologia/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/it/categories/tecnologia/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2024-06-28T12:52:36+06:00</lastmod>
   </url>
 </urlset>

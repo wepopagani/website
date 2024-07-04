@@ -145,6 +145,22 @@
 					
 					
 					
+					
+					
+					<option id="fr" value="http://localhost:1313/fr/">Francois</option>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
 					<option id="en" value="http://localhost:1313/">English</option>
 					
 					
@@ -165,22 +181,6 @@
 					
 					
 					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					<option id="fr" value="http://localhost:1313/fr/">Francois</option>
 					
 					
 					
@@ -472,6 +472,21 @@
 			<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
   <div class="post-block">
     <div class="media-wrapper">
+      <img class="img-fluid lozad" data-src="http://localhost:1313/" onerror="this.onerror=null;this.src='http:\/\/localhost:1313\/images\/blog\/img4.png'">
+    </div>
+
+    <div class="content">
+      <h3><a href="http://localhost:1313/de/blog/food/">3D-Druck in der Gastronomie: Ein Fest für Augen und Gaumen</a></h3>
+      <p>Der 3D-Druck, oft mit Bereichen wie Ingenieurwesen und Medizin in Verbindung gebracht, revolutioniert überraschenderweise auch die Welt der Gastronomie.</p>
+      <a class="btn btn-transparent" href="http://localhost:1313/de/blog/food/">Weiterlesen</a>
+    </div>
+  </div>
+</article>
+
+			
+			<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
+  <div class="post-block">
+    <div class="media-wrapper">
       <img class="img-fluid lozad" data-src="http://localhost:1313/" onerror="this.onerror=null;this.src='http:\/\/localhost:1313\/images\/blog\/img1.png'">
     </div>
 
@@ -499,21 +514,6 @@
 </article>
 
 			
-			<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
-  <div class="post-block">
-    <div class="media-wrapper">
-      <img class="img-fluid lozad" data-src="http://localhost:1313/" onerror="this.onerror=null;this.src='http:\/\/localhost:1313\/images\/blog\/img3.png'">
-    </div>
-
-    <div class="content">
-      <h3><a href="http://localhost:1313/de/blog/slicing/">Slicing: Der Schlüssel zum erfolgreichen 3D-Druck</a></h3>
-      <p>Slicing: Der unsichtbare Held des 3D-Drucks Slicing ist ein entscheidender Schritt im 3D-Druckprozess, der oft unbemerkt bleibt, aber eine wichtige Rolle für den Erfolg Ihrer Drucke spielt.</p>
-      <a class="btn btn-transparent" href="http://localhost:1313/de/blog/slicing/">Weiterlesen</a>
-    </div>
-  </div>
-</article>
-
-			
 
 			<div class="all-post text-center col-lg-12">
 				<a class="btn btn-main" href="http://localhost:1313/de/blog/">Alle Beiträge anzeigen</a>
@@ -528,6 +528,127 @@
 
 
 
+
+<form id="contact-form" class="form-meghna" method="POST" action="https://formspree.io/f/mgvwelzz"> 
+    <input type="hidden" name="form-name" value="Contact form CreaLab">
+    <div class="container pb-5">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="title text-center wow fadeIn" data-wow-duration="500ms">
+                    <h2> Kontaktieren <span class="color">
+                              Sie uns </span></h2>
+                    <div class="border-meghna"></div>
+                </div>
+            </div>
+
+            <div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
+                <h3>Kontaktdaten</h3>
+                <p> Haben Sie eine Frage oder ein Projekt? Wir würden uns freuen, von Ihnen zu hören. </p>
+
+                
+                <div class="contact-details">
+                    
+                    <div class="con-info clearfix">
+                        <i class="ti-location-pin"></i>
+                        <span>Via Pietro Peri 9, 6900 Lugano, Schweiz (CH)</span>
+                    </div>
+                    
+                    <div class="con-info clearfix">
+                        <i class="ti-mobile"></i>
+                        <span>Telefon: &#43;41 76 594 72 52</span>
+                    </div>
+                    
+                    <div class="con-info clearfix">
+                        <i class="ti-email"></i>
+                        <span>E-Mail: info@crealab.lu</span>
+                    </div>
+                    
+                </div>
+                
+            </div>
+
+            
+            
+            <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+                    <div class="form-group">
+                        <input type="text" placeholder="Ihr Name" class="form-control" name="name" id="name" autocomplete="name" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" placeholder="Ihre E-Mail" class="form-control" name="email" id="email" autocomplete="email" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" placeholder="Betreff" class="form-control" name="subject" id="subject" autocomplete="off">
+                    </div>
+                    <div class="form-group">
+                        <textarea rows="6" placeholder="Nachricht" class="form-control" name="message" id="message" required></textarea>
+                    </div>
+                    <div id="cf-submit">
+                        <button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="Absenden">Absenden</button>
+                    </div>
+                    <input type="text" name="bot-field" style="display: none;" />
+                </form> 
+                <div id="success-message" class="alert alert-success mt-4" style="display: none;">
+                    <strong>Grazie!</strong> Il tuo messaggio è stato inviato con successo.
+                </div>
+                <div id="error-message" class="alert alert-danger mt-4" style="display: none;">
+                    <strong>Errore!</strong> Si è verificato un problema durante l'invio del modulo. Riprova più tardi.
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+</form> 
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const form = document.getElementById("contact-form");
+    const successMessage = document.getElementById("success-message");
+    const errorMessage = document.getElementById("error-message");
+
+    form.addEventListener("submit", function (event) {
+        event.preventDefault();
+        
+        
+        if (document.querySelector('input[name="bot-field"]').value !== '') {
+            return; 
+        }
+
+        fetch(form.action, {
+            method: "POST",
+            body: new FormData(form),
+            headers: {
+                'Accept': 'application/json'
+            }
+        })
+        .then(response => {
+            if (response.ok) {
+                form.reset();
+                successMessage.style.display = "block";
+                errorMessage.style.display = "none";
+            } else {
+                response.json().then(data => {
+                    if (Object.hasOwn(data, 'errors')) {
+                        errorMessage.textContent = data["errors"].map(error => error["message"]).join(", ");
+                    } else {
+                        errorMessage.textContent = "Oops! C'è stato un problema con l'invio del modulo.";
+                    }
+                });
+                successMessage.style.display = "none";
+                errorMessage.style.display = "block";
+            }
+        })
+        .catch(error => {
+            errorMessage.textContent = "Oops! C'è stato un problema con l'invio del modulo.";
+            console.error("Errore durante l'invio del modulo:", error);
+            successMessage.style.display = "none";
+            errorMessage.style.display = "block";
+        });
+    });
+});
+</script>
 
 
   </div><!-- end Contact Area -->

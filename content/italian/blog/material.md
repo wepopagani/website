@@ -1,6 +1,6 @@
 ---
 title: "Materiali per la Stampa 3D: Una Guida Completa"
-date: 2018-09-12T12:52:36+06:00
+date: 2024-06-28T12:52:36+06:00
 image: images/blog/img2.png
 author: Marco Pagani
 description: "Scopri il mondo dei materiali per la stampa 3D e la vasta gamma di opzioni disponibili per diverse applicazioni."

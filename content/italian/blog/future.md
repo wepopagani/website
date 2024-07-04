@@ -1,6 +1,6 @@
 ---
 title: "Il Futuro della Stampa 3D: Uno Sguardo alle Innovazioni di Domani"
-date: 2018-09-12T12:52:36+06:00
+date: 2024-06-28T12:52:36+06:00
 image: images/blog/img1.png
 author: Marco Pagani
 description: "Esplora i progressi rivoluzionari nella stampa 3D che stanno rivoluzionando le industrie e plasmando un futuro più innovativo."

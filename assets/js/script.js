@@ -114,38 +114,41 @@ jQuery(function ($) {
 /* ========================================================================= */
 document.addEventListener("DOMContentLoaded", function () {
     const form = document.getElementById("contact-form");
-    const submitButton = document.getElementById("contact-submit"); // Ottieni il riferimento al pulsante
     const successMessage = document.getElementById("success-message");
     const errorMessage = document.getElementById("error-message");
 
     form.addEventListener("submit", function (event) {
         event.preventDefault();
-		submitButton.disabled = true
 
-		fetch("/", {
+        fetch(form.action, {
             method: "POST",
-            body: new FormData(form) // Invia il FormData direttamente
+            body: new FormData(form),
+            headers: {
+                'Accept': 'application/json'
+            }
         })
         .then(response => {
-            if (!response.ok) {
-                throw new Error("Si è verificato un errore durante l'invio. Riprova più tardi."); // Messaggio di errore specifico
+            if (response.ok) {
+                form.reset();
+                successMessage.style.display = "block";
+                errorMessage.style.display = "none";
+            } else {
+                response.json().then(data => {
+                    if (Object.hasOwn(data, 'errors')) {
+                        errorMessage.textContent = data["errors"].map(error => error["message"]).join(", ")
+                    } else {
+                        errorMessage.textContent = "Oops! C'è stato un problema con l'invio del modulo."
+                    }
+                })
+                successMessage.style.display = "none";
+                errorMessage.style.display = "block";
             }
-            return response.text(); // Leggi la risposta del server (se necessaria)
-        })
-        .then(data => {
-            // Puoi gestire la risposta del server qui, se necessario
-            form.reset();
-            successMessage.style.display = "block";
-            errorMessage.style.display = "none";
         })
         .catch(error => {
+            errorMessage.textContent = "Oops! C'è stato un problema con l'invio del modulo."
             console.error("Errore durante l'invio del modulo:", error);
-            errorMessage.textContent = error.message; // Mostra il messaggio di errore specifico
             successMessage.style.display = "none";
             errorMessage.style.display = "block";
-        })
-        .finally(() => {
-            submitButton.disabled = false; // Riabilita il pulsante
         });
     });
 });

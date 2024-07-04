@@ -3,7 +3,7 @@
 {{ if $data.contact.contact.enable }}
 {{ with $data.contact.contact }}
 {{"<!-- Start Contact Us -->" | safeHTML}}
-<form id="contact-form" class="contact-us section-bg" method="post" enctype="multipart/form-data" data-netlify="true">
+<form id="contact-form" class="form-meghna" method="POST" action="https://formspree.io/f/mgvwelzz"> 
 	<input type="hidden" name="form-name" value="contact-form">
     <div class="container pb-5">
         <div class="row">
@@ -40,13 +40,13 @@
             <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
                 <form id="contact-form" class="form-meghna" method="post" enctype="multipart/form-data" data-netlify="true" data-netlify-recaptcha="true">
                     <div class="form-group">
-                        <input type="name" placeholder="{{ .name }}" class="form-control" name="name" id="name" required>
+                        <input type="name" placeholder="{{ .name }}" class="form-control" name="name" id="name" autocomplete="name" required>
                     </div>
                     <div class="form-group">
-                        <input type="email" placeholder="{{ .email }}" class="form-control" name="email" id="email" required>
+                        <input type="email" placeholder="{{ .email }}" class="form-control" name="email" id="email" autocomplete="email">
                     </div>
                     <div class="form-group">
-                        <input type="text" placeholder="{{ .subject }}" class="form-control" name="subject" id="subject" required>
+                        <input type="text" placeholder="{{ .subject }}" class="form-control" name="subject" id="subject" autocomplete="subject">
                     </div>
                     <div class="form-group">
                         <textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message" required></textarea>

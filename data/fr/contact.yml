@@ -20,7 +20,6 @@ contact:
   # Formulaire de contact
   contact_form:
     enable : true
-    form_action : "#" # contact form works with https://formspree.io
     name : "Votre Nom"
     email : "Votre Email"
     subject : "Sujet"

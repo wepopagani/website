@@ -529,22 +529,18 @@
 
 
 
-<!-- Start Contact Us -->
 <form id="contact-form" class="form-meghna" method="POST" action="https://formspree.io/f/mgvwelzz"> 
-	<input type="hidden" name="form-name" value="contact-form">
+    <input type="hidden" name="form-name" value="Contact form CreaLab">
     <div class="container pb-5">
         <div class="row">
             <div class="col-lg-12">
-                <!-- section title -->
                 <div class="title text-center wow fadeIn" data-wow-duration="500ms">
                     <h2> Contact <span class="color">
                               Us </span></h2>
                     <div class="border-meghna"></div>
                 </div>
             </div>
-            <!-- /section title -->
 
-            <!-- Contact Details -->
             <div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
                 <h3>Contact Details</h3>
                 <p> Have a question or project in mind? We&rsquo;d love to hear from you. </p>
@@ -571,34 +567,26 @@
                 
             </div>
 
-            <!-- Contact Form -->
             
             
             <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                <form id="contact-form" class="form-meghna" method="post" enctype="multipart/form-data" data-netlify="true" data-netlify-recaptcha="true">
                     <div class="form-group">
-                        <input type="name" placeholder="Your Name" class="form-control" name="name" id="name" autocomplete="name" required>
+                        <input type="text" placeholder="Your Name" class="form-control" name="name" id="name" autocomplete="name" required>
                     </div>
                     <div class="form-group">
-                        <input type="email" placeholder="Your Email" class="form-control" name="email" id="email" autocomplete="email">
+                        <input type="email" placeholder="Your Email" class="form-control" name="email" id="email" autocomplete="email" required>
                     </div>
                     <div class="form-group">
-                        <input type="text" placeholder="Subject" class="form-control" name="subject" id="subject" autocomplete="subject">
+                        <input type="text" placeholder="Subject" class="form-control" name="subject" id="subject" autocomplete="off">
                     </div>
                     <div class="form-group">
                         <textarea rows="6" placeholder="Message" class="form-control" name="message" id="message" required></textarea>
                     </div>
-                    <div class="form-group">
-                        <label for="file-upload" class="form-label">Carica immagini o il tuo modello</label>
-                        <input type="file" class="form-control" name="file-upload" id="file-upload">
-                    </div>
                     <div id="cf-submit">
                         <button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="Submit">Submit</button>
                     </div>
-                    <div style="display: none;">
-                        <label>Don't fill this out if you're human: <input name="bot-field"></label>
-                    </div>
-                </form>
+                    <input type="text" name="bot-field" style="display: none;" />
+                </form> 
                 <div id="success-message" class="alert alert-success mt-4" style="display: none;">
                     <strong>Grazie!</strong> Il tuo messaggio è stato inviato con successo.
                 </div>
@@ -610,8 +598,7 @@
             
         </div>
     </div>
-</section>
-<!-- /contact -->
+</form> 
 
 
 
@@ -623,15 +610,45 @@ document.addEventListener("DOMContentLoaded", function () {
 
     form.addEventListener("submit", function (event) {
         event.preventDefault();
-
         
-        form.reset();
-        successMessage.style.display = "block";
-        errorMessage.style.display = "none";
+        
+        if (document.querySelector('input[name="bot-field"]').value !== '') {
+            return; 
+        }
+
+        fetch(form.action, {
+            method: "POST",
+            body: new FormData(form),
+            headers: {
+                'Accept': 'application/json'
+            }
+        })
+        .then(response => {
+            if (response.ok) {
+                form.reset();
+                successMessage.style.display = "block";
+                errorMessage.style.display = "none";
+            } else {
+                response.json().then(data => {
+                    if (Object.hasOwn(data, 'errors')) {
+                        errorMessage.textContent = data["errors"].map(error => error["message"]).join(", ");
+                    } else {
+                        errorMessage.textContent = "Oops! C'è stato un problema con l'invio del modulo.";
+                    }
+                });
+                successMessage.style.display = "none";
+                errorMessage.style.display = "block";
+            }
+        })
+        .catch(error => {
+            errorMessage.textContent = "Oops! C'è stato un problema con l'invio del modulo.";
+            console.error("Errore durante l'invio del modulo:", error);
+            successMessage.style.display = "none";
+            errorMessage.style.display = "block";
+        });
     });
 });
 </script>
-
 
 
   </div><!-- end Contact Area -->

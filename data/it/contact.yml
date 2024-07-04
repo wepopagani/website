@@ -20,7 +20,6 @@ contact:
   # Modulo di contatto
   contact_form:
     enable : true
-    form_action : "#" # il modulo di contatto funziona con https://formspree.io
     name : "Il Tuo Nome"
     email : "La Tua Email"
     subject : "Oggetto"

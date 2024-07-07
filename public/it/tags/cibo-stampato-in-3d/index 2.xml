@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cibo Stampato in 3d on CreaLab</title>
+    <link>http://localhost:1313/it/tags/cibo-stampato-in-3d/</link>
+    <description>Recent content in Cibo Stampato in 3d on CreaLab</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 28 Jun 2024 12:52:36 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/it/tags/cibo-stampato-in-3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La stampa 3D e la gastronomia: una delizia per gli occhi e il palato</title>
+      <link>http://localhost:1313/it/blog/food/</link>
+      <pubDate>Fri, 28 Jun 2024 12:52:36 +0600</pubDate>
+      <guid>http://localhost:1313/it/blog/food/</guid>
+      <description>La stampa 3D, spesso associata a settori come l&amp;rsquo;ingegneria e la medicina, sta sorprendentemente rivoluzionando anche il mondo della gastronomia.</description>
+    </item>
+  </channel>
+</rss>

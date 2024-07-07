@@ -6,15 +6,8 @@
     <description>Recent content in Tags on CreaLab</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Applications</title>
-      <link>http://localhost:1313/fr/tags/applications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/applications/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Bio-Impression</title>
       <link>http://localhost:1313/fr/tags/bio-impression/</link>
@@ -23,31 +16,10 @@
       <description></description>
     </item>
     <item>
-      <title>Découpage en Tranches</title>
-      <link>http://localhost:1313/fr/tags/d%C3%A9coupage-en-tranches/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/d%C3%A9coupage-en-tranches/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filament</title>
-      <link>http://localhost:1313/fr/tags/filament/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/filament/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Futur</title>
       <link>http://localhost:1313/fr/tags/futur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/tags/futur/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Impression</title>
-      <link>http://localhost:1313/fr/tags/impression/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/impression/</guid>
       <description></description>
     </item>
     <item>
@@ -86,6 +58,62 @@
       <description></description>
     </item>
     <item>
+      <title>Innovation Culinaire</title>
+      <link>http://localhost:1313/fr/tags/innovation-culinaire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/innovation-culinaire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nourriture Du Futur</title>
+      <link>http://localhost:1313/fr/tags/nourriture-du-futur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/nourriture-du-futur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nourriture Imprimée en 3D</title>
+      <link>http://localhost:1313/fr/tags/nourriture-imprim%C3%A9e-en-3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/nourriture-imprim%C3%A9e-en-3d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technologie</title>
+      <link>http://localhost:1313/fr/tags/technologie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/technologie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Applications</title>
+      <link>http://localhost:1313/fr/tags/applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/applications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Découpage en Tranches</title>
+      <link>http://localhost:1313/fr/tags/d%C3%A9coupage-en-tranches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/d%C3%A9coupage-en-tranches/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filament</title>
+      <link>http://localhost:1313/fr/tags/filament/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/filament/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impression</title>
+      <link>http://localhost:1313/fr/tags/impression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/impression/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Logiciel</title>
       <link>http://localhost:1313/fr/tags/logiciel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -118,13 +146,6 @@
       <link>http://localhost:1313/fr/tags/r%C3%A9sine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/tags/r%C3%A9sine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technologie</title>
-      <link>http://localhost:1313/fr/tags/technologie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/tags/technologie/</guid>
       <description></description>
     </item>
   </channel>

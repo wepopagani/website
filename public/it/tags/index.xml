@@ -6,7 +6,7 @@
     <description>Recent content in Tags on CreaLab</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 12:52:36 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/it/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Applicazioni</title>
@@ -20,6 +20,13 @@
       <link>http://localhost:1313/it/tags/biostampa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/it/tags/biostampa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cibo Stampato in 3d</title>
+      <link>http://localhost:1313/it/tags/cibo-stampato-in-3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/it/tags/cibo-stampato-in-3d/</guid>
       <description></description>
     </item>
     <item>

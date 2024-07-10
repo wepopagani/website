@@ -100,14 +100,19 @@ url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
+name = "portfolio"
+url = "#portfolio"
+weight = 3
+
+[[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
-weight = 6
+weight = 4
 
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 7
+weight = 5
 
 ################### Navigation Française ########################
 [[Languages.fr.menu.main]]
@@ -121,14 +126,19 @@ url = "#services"
 weight = 2
 
 [[Languages.fr.menu.main]]
+name = "portfolio"
+url = "#portfolio"
+weight = 3
+
+[[Languages.fr.menu.main]]
 name = "blog"
 url = "#blog"
-weight = 6
+weight = 4
 
 [[Languages.fr.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 7
+weight = 5
 
 ################### Deutsche Navigation ########################
 [[Languages.de.menu.main]]
@@ -142,14 +152,19 @@ url = "#services"
 weight = 2
 
 [[Languages.de.menu.main]]
+name = "portfolio"
+url = "#portfolio"
+weight = 3
+
+[[Languages.de.menu.main]]
 name = "Blog"
 url = "#blog"
-weight = 6
+weight = 4
 
 [[Languages.de.menu.main]]
 name = "Kontakt"
 url = "#contact"
-weight = 7
+weight = 5
 
 ################### Navigazione Italiana ########################
 [[Languages.it.menu.main]]
@@ -163,14 +178,19 @@ url = "#services"
 weight = 2
 
 [[Languages.it.menu.main]]
+name = "portfolio"
+url = "#portfolio"
+weight = 3
+
+[[Languages.it.menu.main]]
 name = "blog"
 url = "#blog"
-weight = 6
+weight = 4
 
 [[Languages.it.menu.main]]
 name = "contatti"
 url = "#contact"
-weight = 7
+weight = 5
 
 ############################# Default Parameters ##########################
 [params]
@@ -192,14 +212,6 @@ preloader = "images/crealab.png"
 [params.cookies]
 enable = false
 expire_days = 2
-
-# google map
-[params.map]
-enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
 
 ############################# social icons ##########################
 [[params.social]]

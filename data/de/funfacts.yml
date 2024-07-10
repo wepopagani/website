@@ -1,0 +1,18 @@
+################################# Funfacts ##################################
+funfacts:
+  enable: true
+  bg_image: "images/backgrounds/bg_printer.jpg"
+  bg_image_webp: "images/backgrounds/bg_printer.webp"
+  counter_item:
+    - title: "Stunden gedruckt"
+      icon: "ti-timer"
+      count: "4978"
+    - title: "Erstellte 3D-Modelle"
+      icon: "ti-paint-bucket"
+      count: "478"
+    - title: "Verwendetes Filament (kg)"
+      icon: "ti-package"
+      count: "150"
+    - title: "Gedruckte Figuren"
+      icon: "ti-crown"
+      count: "164"

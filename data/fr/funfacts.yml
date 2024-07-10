@@ -1,0 +1,18 @@
+################################# faits amusants ##################################
+funfacts:
+  enable: true
+  bg_image: "images/backgrounds/bg_printer.jpg"
+  bg_image_webp: "images/backgrounds/bg_printer.webp"
+  counter_item:
+    - title: "Heures d'impression"
+      icon: "ti-timer"
+      count: "4978"
+    - title: "Modèles 3D créés"
+      icon: "ti-paint-bucket"
+      count: "478"
+    - title: "Kg de filament utilisés"
+      icon: "ti-package"
+      count: "150"
+    - title: "Statuettes imprimées"
+      icon: "ti-crown"
+      count: "164"

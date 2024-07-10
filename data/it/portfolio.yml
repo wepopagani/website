@@ -1,0 +1,58 @@
+portfolio:
+  enable: true
+  title: Le Nostre Creazioni
+  portfolio_item:
+
+    - name: Casco di Iron Man
+      image: images/portfolio/ironman.png
+      categories: ["cosplay"]
+      content: Un casco indossabile di Iron Man Mk45, perfetto per ogni fan dei supereroi.
+      # link: "https://themefisher.com"
+      
+    - name: Casco di Venom
+      image: images/portfolio/venom.png
+      categories: ["cosplay"]
+      content: Un casco di Venom finemente progettato, ideale per gli appassionati di cosplay.
+      # link: "https://themefisher.com"
+      
+    - name: Casco di Deadpool
+      image: images/portfolio/deadpool.png
+      categories: ["cosplay"]
+      content: Un casco di Deadpool accattivante, perfetto per aggiungere un tocco di umorismo al tuo costume.
+      # link: "https://themefisher.com"
+      
+    - name: Casco di Black Panther
+      image: images/portfolio/bp.png
+      categories: ["cosplay"]
+      content: Un casco regale di Black Panther, adatto a un re di Wakanda.
+      # link: "https://themefisher.com"
+      
+    - name: Casco di Wolverine
+      image: images/portfolio/wolverine.png
+      categories: ["cosplay"]
+      content: Un casco feroce di Wolverine, perfetto per incarnare l'eroe leggendario degli X-Men.
+      # link: "https://themefisher.com"
+      
+    - name: Statuetta di Venom
+      image: images/portfolio/ven.png
+      categories: ["statuette"]
+      content: Una replica 3D stampata con cura di Venom.
+      # link: "https://themefisher.com"
+      
+    - name: Arte del Gorilla
+      image: images/portfolio/orl1.png
+      categories: ["art"]
+      content: Una scultura di gorilla potente ed espressiva, che cattura l'essenza grezza della natura.
+      # link: "https://themefisher.com"
+      
+    - name: Cigno di Palloncini
+      image: images/portfolio/cigno.png
+      categories: ["art"]
+      content: Un cigno di palloncini affascinante, che aggiunge un tocco di eleganza e giocosità.
+      # link: "https://themefisher.com"
+      
+    - name: Cane di Palloncini
+      image: images/portfolio/bd.png
+      categories: ["art"]
+      content: Un cane di palloncini incantevole, che porta gioia e creatività in ogni spazio.
+      # link: "https://themefisher.com"

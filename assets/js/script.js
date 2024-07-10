@@ -119,6 +119,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
     form.addEventListener("submit", function (event) {
         event.preventDefault();
+        
+        // Controlla se l'honeypot è stato compilato
+        if (document.querySelector('input[name="bot-field"]').value !== '') {
+            return; // Se l'honeypot è stato compilato, blocca l'invio
+        }
 
         fetch(form.action, {
             method: "POST",
@@ -129,23 +134,23 @@ document.addEventListener("DOMContentLoaded", function () {
         })
         .then(response => {
             if (response.ok) {
-                form.reset();
+                form.style.display = "none"; // Nasconde il modulo
                 successMessage.style.display = "block";
                 errorMessage.style.display = "none";
             } else {
                 response.json().then(data => {
                     if (Object.hasOwn(data, 'errors')) {
-                        errorMessage.textContent = data["errors"].map(error => error["message"]).join(", ")
+                        errorMessage.textContent = data["errors"].map(error => error["message"]).join(", ");
                     } else {
-                        errorMessage.textContent = "Oops! C'è stato un problema con l'invio del modulo."
+                        errorMessage.textContent = "Oops! C'è stato un problema con l'invio del modulo.";
                     }
-                })
+                });
                 successMessage.style.display = "none";
                 errorMessage.style.display = "block";
             }
         })
         .catch(error => {
-            errorMessage.textContent = "Oops! C'è stato un problema con l'invio del modulo."
+            errorMessage.textContent = "Oops! C'è stato un problema con l'invio del modulo.";
             console.error("Errore durante l'invio del modulo:", error);
             successMessage.style.display = "none";
             errorMessage.style.display = "block";

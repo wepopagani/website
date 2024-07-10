@@ -1,0 +1,27 @@
+################################# funfacts ##################################
+funfacts:
+  enable: true
+  bg_image: "images/backgrounds/bg_printer.jpg"
+  bg_image_webp: "images/backgrounds/bg_printer.webp"
+  counter_item:
+    
+    # counter item loop
+    - title: "Ore di Stampa"
+      icon: "ti-timer" # themify icon pack : https://themify.me/themify-icons
+      count: "4978"
+    
+    # counter item loop
+    - title: "Modelli 3D Creati"
+      icon: "ti-paint-bucket" # themify icon pack : https://themify.me/themify-icons
+      count: "478"
+    
+    # counter item loop
+    - title: "Kg di Filamento Utilizzati"
+      icon: "ti-package" # themify icon pack : https://themify.me/themify-icons
+      count: "150"
+    
+    # counter item loop
+    - title: "Statuette Stampate"
+      icon: "ti-crown" # themify icon pack : https://themify.me/themify-icons
+      count: "164"
+    

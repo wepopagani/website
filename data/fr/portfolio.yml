@@ -1,0 +1,58 @@
+portfolio:
+  enable: true
+  title: Nos Créations
+  portfolio_item:
+
+    - name: Casque Iron Man
+      image: images/portfolio/ironman.png
+      categories: ["cosplay"]
+      content: Un casque Iron Man Mk45 portable, parfait pour tous les fans de super-héros.
+      # link: "https://themefisher.com"
+      
+    - name: Casque Venom
+      image: images/portfolio/venom.png
+      categories: ["cosplay"]
+      content: Un casque Venom finement conçu, idéal pour les amateurs de cosplay.
+      # link: "https://themefisher.com"
+      
+    - name: Casque Deadpool
+      image: images/portfolio/deadpool.png
+      categories: ["cosplay"]
+      content: Un casque Deadpool frappant, idéal pour ajouter une touche d'humour à votre costume.
+      # link: "https://themefisher.com"
+      
+    - name: Casque Black Panther
+      image: images/portfolio/bp.png
+      categories: ["cosplay"]
+      content: Un casque royal de Black Panther, digne d'un roi de Wakanda.
+      # link: "https://themefisher.com"
+      
+    - name: Casque Wolverine
+      image: images/portfolio/wolverine.png
+      categories: ["cosplay"]
+      content: Un casque féroce de Wolverine, parfait pour incarner le légendaire héros des X-Men.
+      # link: "https://themefisher.com"
+      
+    - name: Statuette de Venom
+      image: images/portfolio/ven.png
+      categories: ["statuette"]
+      content: Une réplique méticuleusement imprimée en 3D de Venom.
+      # link: "https://themefisher.com"
+      
+    - name: Art Gorilla
+      image: images/portfolio/orl1.png
+      categories: ["art"]
+      content: Une sculpture de gorille puissante et expressive, capturant l'essence brute de la nature.
+      # link: "https://themefisher.com"
+      
+    - name: Cygne Ballon
+      image: images/portfolio/cigno.png
+      categories: ["art"]
+      content: Un cygne en ballon, ajoutant une touche d'élégance et de fantaisie.
+      # link: "https://themefisher.com"
+      
+    - name: Chien Ballon
+      image: images/portfolio/bd.png
+      categories: ["art"]
+      content: Un charmant chien en ballon, apportant joie et créativité à tout espace.
+      # link: "https://themefisher.com"

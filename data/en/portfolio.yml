@@ -1,0 +1,59 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Our Creations
+  portfolio_item :
+
+    - name: Iron Man Helmet
+      image: images/portfolio/ironman.png
+      categories: ["cosplay"]
+      content: A wearable Iron Man Helmet Mk45, perfect for any superhero fan.
+      # link: "https://themefisher.com"
+      
+    - name: Venom Helmet
+      image: images/portfolio/venom.png
+      categories: ["cosplay"]
+      content: An intricately designed Venom helmet, ideal for cosplay enthusiasts.
+      # link: "https://themefisher.com"
+      
+    - name: Deadpool Helmet
+      image: images/portfolio/deadpool.png
+      categories: ["cosplay"]
+      content: A striking Deadpool helmet, great for adding a touch of humor to your costume.
+      # link: "https://themefisher.com"
+      
+    - name: Black Panther Helmet
+      image: images/portfolio/bp.png
+      categories: ["cosplay"]
+      content: A regal Black Panther helmet, fit for a king of Wakanda.
+      # link: "https://themefisher.com"
+      
+    - name: Wolverine Helmet
+      image: images/portfolio/wolverine.png
+      categories: ["cosplay"]
+      content: A fierce Wolverine helmet, perfect for embodying the legendary X-Men hero.
+      # link: "https://themefisher.com"
+      
+    - name: Venom Statuette
+      image: images/portfolio/ven.png
+      categories: ["statuette"]
+      content: A meticulously crafted 3D printed replica of Venom.
+      # link: "https://themefisher.com"
+      
+    - name: Gorilla Art
+      image: images/portfolio/orl1.png
+      categories: ["art"]
+      content: A powerful and expressive gorilla sculpture, capturing the raw essence of nature.
+      # link: "https://themefisher.com"
+      
+    - name: Balloon Swan
+      image: images/portfolio/cigno.png
+      categories: ["art"]
+      content: A whimsical balloon swan, adding a touch of elegance and playfulness.
+      # link: "https://themefisher.com"
+      
+    - name: Balloon Dog
+      image: images/portfolio/bd.png
+      categories: ["art"]
+      content: A charming balloon dog, bringing joy and creativity to any space.
+      # link: "https://themefisher.com"

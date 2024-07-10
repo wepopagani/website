@@ -1,0 +1,18 @@
+################################# Fun Facts ##################################
+funfacts:
+  enable: true
+  bg_image: "images/backgrounds/bg_printer.jpg"
+  bg_image_webp: "images/backgrounds/bg_printer.webp"
+  counter_item:
+    - title: "Hours Printed"
+      icon: "ti-timer"
+      count: "4978"
+    - title: "3D Models Created"
+      icon: "ti-paint-bucket"
+      count: "478"
+    - title: "Filament Used (kg)"
+      icon: "ti-package"
+      count: "150"
+    - title: "Figurines Printed"
+      icon: "ti-crown"
+      count: "164"

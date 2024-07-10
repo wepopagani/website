@@ -1,0 +1,58 @@
+portfolio:
+  enable: true
+  title: Unsere Kreationen
+  portfolio_item:
+
+    - name: Iron Man Helm
+      image: images/portfolio/ironman.png
+      categories: ["cosplay"]
+      content: Ein tragbarer Iron Man Helm Mk45, perfekt für jeden Superhelden-Fan.
+      # link: "https://themefisher.com"
+      
+    - name: Venom Helm
+      image: images/portfolio/venom.png
+      categories: ["cosplay"]
+      content: Ein aufwendig gestalteter Venom-Helm, ideal für Cosplay-Enthusiasten.
+      # link: "https://themefisher.com"
+      
+    - name: Deadpool Helm
+      image: images/portfolio/deadpool.png
+      categories: ["cosplay"]
+      content: Ein auffälliger Deadpool-Helm, großartig um deinem Kostüm eine humorvolle Note zu verleihen.
+      # link: "https://themefisher.com"
+      
+    - name: Black Panther Helm
+      image: images/portfolio/bp.png
+      categories: ["cosplay"]
+      content: Ein königlicher Black Panther Helm, geeignet für einen König von Wakanda.
+      # link: "https://themefisher.com"
+      
+    - name: Wolverine Helm
+      image: images/portfolio/wolverine.png
+      categories: ["cosplay"]
+      content: Ein wilder Wolverine-Helm, perfekt um den legendären X-Men-Helden zu verkörpern.
+      # link: "https://themefisher.com"
+      
+    - name: Venom Statuette
+      image: images/portfolio/ven.png
+      categories: ["statuette"]
+      content: Eine sorgfältig gefertigte 3D gedruckte Nachbildung von Venom.
+      # link: "https://themefisher.com"
+      
+    - name: Gorilla Kunst
+      image: images/portfolio/orl1.png
+      categories: ["art"]
+      content: Eine kraftvolle und ausdrucksstarke Gorilla-Skulptur, die das rohe Wesen der Natur einfängt.
+      # link: "https://themefisher.com"
+      
+    - name: Ballon Schwan
+      image: images/portfolio/cigno.png
+      categories: ["art"]
+      content: Ein verspielter Ballon Schwan, der Eleganz und Verspieltheit vereint.
+      # link: "https://themefisher.com"
+      
+    - name: Ballon Hund
+      image: images/portfolio/bd.png
+      categories: ["art"]
+      content: Ein charmanter Ballon Hund, der Freude und Kreativität in jeden Raum bringt.
+      # link: "https://themefisher.com"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Impression 3D on CreaLab</title>
+    <link>http://localhost:1313/fr/categories/impression-3d/</link>
+    <description>Recent content in Impression 3D on CreaLab</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/categories/impression-3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Découpage en tranches : La clé d&#39;une impression 3D réussie</title>
+      <link>http://localhost:1313/fr/blog/slicing/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <guid>http://localhost:1313/fr/blog/slicing/</guid>
+      <description>Découpage en tranches : Le héros méconnu de l&amp;rsquo;impression 3D Le découpage en tranches est une étape cruciale du processus d&amp;rsquo;impression 3D qui passe souvent inaperçue mais joue un rôle essentiel dans la réussite de vos impressions.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stampa 3D on CreaLab</title>
+    <link>http://localhost:1313/it/categories/stampa-3d/</link>
+    <description>Recent content in Stampa 3D on CreaLab</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 28 Jun 2024 12:52:36 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/it/categories/stampa-3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slicing: La Chiave per una Stampa 3D di Successo</title>
+      <link>http://localhost:1313/it/blog/slicing/</link>
+      <pubDate>Fri, 28 Jun 2024 12:52:36 +0600</pubDate>
+      <guid>http://localhost:1313/it/blog/slicing/</guid>
+      <description>Slicing: L&amp;rsquo;Eroe Misconosciuto della Stampa 3D Lo slicing è un passaggio cruciale nel processo di stampa 3D che spesso passa inosservato ma gioca un ruolo fondamentale nel successo delle tue stampe.</description>
+    </item>
+  </channel>
+</rss>

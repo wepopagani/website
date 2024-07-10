@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on CreaLab</title>
+    <link>http://localhost:1313/fr/author/</link>
+    <description>Recent content in Authors on CreaLab</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 30 Jun 2024 19:55:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À Propos de Moi</title>
+      <link>http://localhost:1313/fr/author/marco-pagani/</link>
+      <pubDate>Sun, 30 Jun 2024 19:55:00 +0200</pubDate>
+      <guid>http://localhost:1313/fr/author/marco-pagani/</guid>
+      <description>Bonjour, je suis Marco ! J&amp;rsquo;ai 21 ans et je suis étudiant en économie avec une grande passion pour le monde de l&amp;rsquo;informatique.</description>
+    </item>
+  </channel>
+</rss>

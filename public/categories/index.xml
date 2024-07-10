@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on CreaLab</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on CreaLab</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gastronomy</title>
+      <link>http://localhost:1313/categories/gastronomy/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/categories/gastronomy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/categories/technology/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3D Printing</title>
+      <link>http://localhost:1313/categories/3d-printing/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <guid>http://localhost:1313/categories/3d-printing/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

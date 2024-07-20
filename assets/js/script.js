@@ -117,11 +117,27 @@ document.addEventListener("DOMContentLoaded", function () {
     const successMessage = document.getElementById("success-message");
     const errorMessage = document.getElementById("error-message");
 
+    console.log("Form:", form);
+    console.log("Success Message:", successMessage);
+    console.log("Error Message:", errorMessage);
+
+    if (!form || !successMessage || !errorMessage) {
+        console.error("Uno o più elementi non sono stati trovati nel DOM.");
+        return;
+    }
+
     form.addEventListener("submit", function (event) {
         event.preventDefault();
         
         // Controlla se l'honeypot è stato compilato
-        if (document.querySelector('input[name="bot-field"]').value !== '') {
+        const botField = document.querySelector('input[name="bot-field"]');
+        console.log("Bot field element:", botField);
+        if (!botField) {
+            console.error("Elemento honeypot non trovato nel DOM.");
+            return;
+        }
+
+        if (botField.value !== '') {
             return; // Se l'honeypot è stato compilato, blocca l'invio
         }
 
@@ -157,5 +173,3 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 });
-
-

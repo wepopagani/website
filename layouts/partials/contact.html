@@ -50,6 +50,9 @@
 					<div class="form-group">
 						<textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message" required></textarea>
 					</div>
+					<div style="display: none;">
+						<input type="text" name="bot-field">
+					</div>
 					<div id="cf-submit">
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block"
 							value="{{ .submit }}">{{ .submit }}</button>
